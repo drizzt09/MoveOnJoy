@@ -1,27 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="NFL.Network.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s45399_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s45399_h15_aa.png" />
+<tv><channel id="NBA.TV.USA.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">NFL Network</display-name>
-  </channel>
-  <channel id="ESPN2.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">ESPN2</display-name>
-  </channel>
-  <channel id="Fox.Sports.1.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s82541_h15_ab.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s82541_h15_ab.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Fox Sports 1</display-name>
-  </channel>
-  <channel id="MLB.Network.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s62079_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s62079_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">MLB Network</display-name>
+    <display-name lang="en">NBA TV USA</display-name>
   </channel>
   <channel id="ESPN.News.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16485_h15_aa.png" />
@@ -35,17 +17,35 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">ESPNU On Demand</display-name>
   </channel>
+  <channel id="Fox.Sports.1.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s82541_h15_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s82541_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Fox Sports 1</display-name>
+  </channel>
+  <channel id="MLB.Network.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s62079_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s62079_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">MLB Network</display-name>
+  </channel>
+  <channel id="ESPN2.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">ESPN2</display-name>
+  </channel>
   <channel id="NHL.Network.USA.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s58570_h15_ab.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s58570_h15_ab.png" />
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">NHL Network USA</display-name>
   </channel>
-  <channel id="NFL.RedZone.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s65024_h9_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s65024_h9_aa.png" />
+  <channel id="NFL.Network.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s45399_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s45399_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">NFL RedZone</display-name>
+    <display-name lang="en">NFL Network</display-name>
   </channel>
   <channel id="ESPN.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png" />
@@ -59,147 +59,12 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Fox Sports 2</display-name>
   </channel>
-  <channel id="NBA.TV.USA.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png" />
+  <channel id="NFL.RedZone.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s65024_h9_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s65024_h9_aa.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">NBA TV USA</display-name>
+    <display-name lang="en">NFL RedZone</display-name>
   </channel>
-  <programme channel="Fox.Sports.2.us" start="20250714010000 -0400" stop="20250714030000 -0400">
-    <title lang="en">UEFA Women's EURO 2025</title>
-    <sub-title lang="en">Netherlands vs. France</sub-title>
-    <desc lang="en">Group D.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG00254QTF.jpg" />
-    <previously-shown /></programme>
-  <programme channel="Fox.Sports.2.us" start="20250714030000 -0400" stop="20250714040000 -0400">
-    <title lang="en">The American Rodeo</title>
-    <sub-title lang="en">The American Rodeo Central Super Contender: Brazil</sub-title>
-    <desc lang="en">From Cowboy Festival Barretos in Sao Paulo, Brazil.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rodeo</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26632176_b_v12_ab.jpg" />
-    <previously-shown /></programme>
-  <programme channel="Fox.Sports.2.us" start="20250714040000 -0400" stop="20250714050000 -0400">
-    <title lang="en">The American Rodeo</title>
-    <sub-title lang="en">The American Rodeo EAST Super Contender -- Canada</sub-title>
-    <desc lang="en">The top five professional and amateur athletes compete across eight Rodeo disciplines for the biggest payday in western sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rodeo</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26632176_b_v12_ab.jpg" />
-    <previously-shown /></programme>
-  <programme channel="Fox.Sports.2.us" start="20250714050000 -0400" stop="20250714060000 -0400">
-    <title lang="en">The American Rodeo</title>
-    <sub-title lang="en">The American Rodeo CENTRAL Super Contender - Denver</sub-title>
-    <desc lang="en">The top five professional and amateur athletes compete across eight Rodeo disciplines for the biggest payday in western sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rodeo</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26632176_b_v12_ab.jpg" />
-    <previously-shown /></programme>
-  <programme channel="Fox.Sports.2.us" start="20250714060000 -0400" stop="20250714110000 -0400">
-    <title lang="en">LIV Golf League</title>
-    <desc lang="en">From Valderrama Golf Club in Sotogrande, Ourense, Spain.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24361922_i_s4_ad.jpg" />
-    <previously-shown /></programme>
-  <programme channel="Fox.Sports.2.us" start="20250714110000 -0400" stop="20250714120000 -0400">
-    <title lang="en">AMSOIL Championship Off Road</title>
-    <sub-title lang="en">Crandon, WI</sub-title>
-    <desc lang="en">Off road racing action.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25079608_b_s3_ab.jpg" />
-    <previously-shown /></programme>
-  <programme channel="Fox.Sports.2.us" start="20250714120000 -0400" stop="20250714130000 -0400">
-    <title lang="en">MotoAmerica Rewind</title>
-    <sub-title lang="en">Ridge Motorsports Park</sub-title>
-    <desc lang="en">From Ridge Motorsports Park in Shelton, WA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motorcycle Racing</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16680023_i_s4_ac.jpg" />
-    <previously-shown /></programme>
-  <programme channel="Fox.Sports.2.us" start="20250714130000 -0400" stop="20250714140000 -0400">
-    <title lang="en">American Flat Track</title>
-    <sub-title lang="en">DuQuoin Mile</sub-title>
-    <desc lang="en">Motorcycle action from the American Flat Track racing series.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motorcycle Racing</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15341205_i_h8_ab.jpg" />
-    <previously-shown /></programme>
-  <programme channel="Fox.Sports.2.us" start="20250714140000 -0400" stop="20250714150000 -0400">
-    <title lang="en">Indy NXT Series</title>
-    <sub-title lang="en">Iowa Speedway</sub-title>
-    <desc lang="en">From Iowa Speedway in Newton, Iowa.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24155596_b_s3_ab.jpg" />
-    <previously-shown /></programme>
-  <programme channel="Fox.Sports.2.us" start="20250714150000 -0400" stop="20250714170000 -0400">
-    <title lang="en">IndyCar Racing</title>
-    <sub-title lang="en">SYNK 275</sub-title>
-    <desc lang="en">The IndyCar Series revs up for a doubleheader weekend in the Hawkeye State with the Synk 275 from Iowa Speedway. Team Penske swept the pair of races each of the last two years, including Josef Newgarden's back-to-back victories in 2023.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p737330_b_h8_ad.jpg" />
-    <previously-shown /></programme>
-  <programme channel="Fox.Sports.2.us" start="20250714170000 -0400" stop="20250714190000 -0400">
-    <title lang="en">IndyCar Racing</title>
-    <sub-title lang="en">Farm to Finish 275</sub-title>
-    <desc lang="en">The IndyCar Series grid races the second of back-to-back events from Iowa Speedway with the Farm to Finish 275. Oceania ruled the weekend in the Hawkeye State in 2024, with Kiwi Scott McLaughlin and Australian Will Power taking the checkered flags.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p737330_b_h8_ad.jpg" />
-    <previously-shown /></programme>
-  <programme channel="Fox.Sports.2.us" start="20250714190000 -0400" stop="20250714200000 -0400">
-    <title lang="en">MotoGP Racing</title>
-    <sub-title lang="en">Liqui Moly Grand Prix of Germany</sub-title>
-    <desc lang="en">From Sachsenring in Hohenstein-Ernstthal, Sachsen, Germany.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motorcycle Racing</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p445587_b_s3_ai.jpg" />
-    <previously-shown /></programme>
-  <programme channel="Fox.Sports.2.us" start="20250714200000 -0400" stop="20250714220000 -0400">
-    <title lang="en">UEFA Women's EURO 2025</title>
-    <sub-title lang="en">England vs. Wales</sub-title>
-    <desc lang="en">Group D.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG00258Y44.jpg" />
-    <previously-shown /></programme>
-  <programme channel="Fox.Sports.2.us" start="20250714220000 -0400" stop="20250715000000 -0400">
-    <title lang="en">UEFA Women's EURO 2025</title>
-    <sub-title lang="en">Netherlands vs. France</sub-title>
-    <desc lang="en">Group D.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG00254QTF.jpg" />
-    <previously-shown /></programme>
-  <programme channel="Fox.Sports.2.us" start="20250715000000 -0400" stop="20250715020000 -0400">
-    <title lang="en">2025 Copa América Femenina</title>
-    <sub-title lang="en">Brazil vs. Venezuela</sub-title>
-    <desc lang="en">Group B.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG0020X27K.jpg" />
-    <previously-shown /></programme>
-  <programme channel="Fox.Sports.2.us" start="20250715020000 -0400" stop="20250715040000 -0400">
-    <title lang="en">2025 Copa América Femenina</title>
-    <sub-title lang="en">Peru vs. Chile</sub-title>
-    <desc lang="en">Group A.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG001YTWLC.jpg" />
-    <previously-shown /></programme>
-  <programme channel="Fox.Sports.2.us" start="20250715040000 -0400" stop="20250715060000 -0400">
-    <title lang="en">2025 Copa América Femenina</title>
-    <sub-title lang="en">Bolivia vs. Paraguay</sub-title>
-    <desc lang="en">Group B.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG001YTWQX.jpg" />
-    <previously-shown /></programme>
   <programme channel="Fox.Sports.2.us" start="20250715060000 -0400" stop="20250715083000 -0400">
     <title lang="en">The Masters Agility Championship at Westminster</title>
     <desc lang="en">The Masters Agility Championship at Westminster from New York City.</desc>
@@ -475,34 +340,245 @@
     <category lang="en">Cards</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27097493_b_h8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="NFL.RedZone.us" start="20250714000000 -0400" stop="20250714080000 -0400">
-    <title lang="en">Every Sunday Afternoon</title>
-    <desc lang="en">Follow every NFL football game as teams enter the RedZone.</desc>
+  <programme channel="Fox.Sports.2.us" start="20250717054800 -0400" stop="20250717054800 -0400">
+    <title lang="en">Live: NRL Rugby</title>
+    <sub-title lang="en">Dolphins vs. North Queensland Cowboys</sub-title>
+    <desc lang="en">From Suncorp Stadium in Milton, Queensland, Australia.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25599658_b_h8_ab.jpg" />
-    <previously-shown /></programme>
-  <programme channel="NFL.RedZone.us" start="20250714080000 -0400" stop="20250714160000 -0400">
-    <title lang="en">Every Sunday Afternoon</title>
-    <desc lang="en">Follow every NFL football game as teams enter the RedZone.</desc>
+    <category lang="en">Rugby</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p817685_b_v12_bg.jpg" />
+  </programme>
+  <programme channel="Fox.Sports.2.us" start="20250717054800 -0400" stop="20250717080000 -0400">
+    <title lang="en">Live: NRL Rugby</title>
+    <sub-title lang="en">Dolphins vs. North Queensland Cowboys</sub-title>
+    <desc lang="en">From Suncorp Stadium in Milton, Queensland, Australia.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25599658_b_h8_ab.jpg" />
-    <previously-shown /></programme>
-  <programme channel="NFL.RedZone.us" start="20250714160000 -0400" stop="20250715000000 -0400">
-    <title lang="en">Every Sunday Afternoon</title>
-    <desc lang="en">Follow every NFL football game as teams enter the RedZone.</desc>
+    <category lang="en">Rugby</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p817685_b_v12_bg.jpg" />
+  </programme>
+  <programme channel="Fox.Sports.2.us" start="20250717080000 -0400" stop="20250717090000 -0400">
+    <title lang="en">NRL Hits Vegas</title>
+    <desc lang="en">A behind the scenes look with all-access as the NRL launches the 2024 season under the bright lights of Las Vegas.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25599658_b_h8_ab.jpg" />
+    <category lang="en">Rugby</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29120868_b_v12_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="NFL.RedZone.us" start="20250715000000 -0400" stop="20250715000000 -0400">
-    <title lang="en">Every Sunday Afternoon</title>
-    <desc lang="en">Follow every NFL football game as teams enter the RedZone.</desc>
+  <programme channel="Fox.Sports.2.us" start="20250717090000 -0400" stop="20250717110000 -0400">
+    <title lang="en">2025 Copa América Femenina</title>
+    <sub-title lang="en">Venezuela vs. Colombia</sub-title>
+    <desc lang="en">Group B.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25599658_b_h8_ab.jpg" />
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG0020GEWN.jpg" />
     <previously-shown /></programme>
+  <programme channel="Fox.Sports.2.us" start="20250717110000 -0400" stop="20250717130000 -0400">
+    <title lang="en">2025 Copa América Femenina</title>
+    <sub-title lang="en">Bolivia vs. Brazil</sub-title>
+    <desc lang="en">Group B.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG0020BNT2.jpg" />
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.2.us" start="20250717130000 -0400" stop="20250717183000 -0400">
+    <title lang="en">Live: Horse Racing</title>
+    <sub-title lang="en">Saratoga Live</sub-title>
+    <desc lang="en">From Saratoga Race Course in Saratoga Springs, N.Y.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Horse Racing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p727544_b_v12_bf.jpg" />
+  </programme>
+  <programme channel="Fox.Sports.2.us" start="20250717183000 -0400" stop="20250717190000 -0400">
+    <title lang="en">Driven by Speed: Keanu Reeves VS. Cody Jones</title>
+    <desc lang="en">Global Superstar Keanu Reeves and Cody Jones from Dude Perfect race at the Indianapolis Motor Speedway as they go head-to-head at the legendary track.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29883505_b_v12_aa.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.us" start="20250717190000 -0400" stop="20250717210000 -0400">
+    <title lang="en">The American Rodeo</title>
+    <sub-title lang="en">The American Rodeo Contender Round</sub-title>
+    <desc lang="en">From Globe Life Field in Arlington, TX.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rodeo</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26632176_b_v12_ab.jpg" />
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.2.us" start="20250717210000 -0400" stop="20250717230000 -0400">
+    <title lang="en">The American Rodeo</title>
+    <sub-title lang="en">Championship</sub-title>
+    <desc lang="en">From Arlington, Texas.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rodeo</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26632176_b_v12_ab.jpg" />
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.2.us" start="20250717230000 -0400" stop="20250718010000 -0400">
+    <title lang="en">UEFA Women's EURO 2025</title>
+    <sub-title lang="en">Spain vs. Switzerland</sub-title>
+    <desc lang="en">Quarterfinal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29593827_b_h8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.2.us" start="20250718010000 -0400" stop="20250718030000 -0400">
+    <title lang="en">Auto Racing</title>
+    <sub-title lang="en">Joker's Jackpot at Eldora Speedway</sub-title>
+    <desc lang="en">The High Limit Racing series is an American touring sprint car racing series. It was founded in 2022 by five-time World of Outlaws sprint car series champion Brad Sweet and former NASCAR Cup Series champion Kyle Larson.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30613264_b_h8_aa.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.us" start="20250718030000 -0400" stop="20250718033000 -0400">
+    <title lang="en">Kevin Harvick's Happy Hour</title>
+    <sub-title lang="en">Marcus Smith Interview</sub-title>
+    <desc lang="en">NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27869670_b_s4_ac.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.us" start="20250718033000 -0400" stop="20250718043000 -0400">
+    <title lang="en">Kevin Harvick's Happy Hour</title>
+    <sub-title lang="en">Sonoma Recap</sub-title>
+    <desc lang="en">NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27869670_b_s4_ac.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.us" start="20250718043000 -0400" stop="20250718053900 -0400">
+    <title lang="en">AMSOIL Championship Off Road</title>
+    <sub-title lang="en">Crandon, WI</sub-title>
+    <desc lang="en">Off road racing action.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25079608_b_s3_ab.jpg" />
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.2.us" start="20250718053900 -0400" stop="20250718053900 -0400">
+    <title lang="en">Live: AFL Premiership Football</title>
+    <sub-title lang="en">Brisbane Lions vs. Western Bulldogs</sub-title>
+    <desc lang="en">From Brisbane Cricket Ground in Brisbane, Queensland, Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Australian Rules Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3589784_i_h8_ab.jpg" />
+  </programme>
+  <programme channel="Fox.Sports.2.us" start="20250718053900 -0400" stop="20250718083000 -0400">
+    <title lang="en">Live: AFL Premiership Football</title>
+    <sub-title lang="en">Brisbane Lions vs. Western Bulldogs</sub-title>
+    <desc lang="en">From Brisbane Cricket Ground in Brisbane, Queensland, Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Australian Rules Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3589784_i_h8_ab.jpg" />
+  </programme>
+  <programme channel="Fox.Sports.2.us" start="20250718083000 -0400" stop="20250718090000 -0400">
+    <title lang="en">The Rover of Tobruk</title>
+    <desc lang="en">Bob Quinn, a former AFL player for Port Adelaide, was a recipient of the Military Medal for his heroic actions in World War II in Tobruk.</desc>
+    <credits>
+      <actor>Steven Summerton</actor>
+    </credits>
+    <category lang="en">Sports</category>
+    <category lang="en">Australian Rules Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19925971_b_h10_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.2.us" start="20250718090000 -0400" stop="20250718110000 -0400">
+    <title lang="en">UEFA Women's EURO 2025</title>
+    <sub-title lang="en">Norway vs. Italy</sub-title>
+    <desc lang="en">Quarterfinal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29593827_b_h8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.2.us" start="20250718110000 -0400" stop="20250718130000 -0400">
+    <title lang="en">UEFA Women's EURO 2025</title>
+    <sub-title lang="en">Spain vs. Switzerland</sub-title>
+    <desc lang="en">Quarterfinal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29593827_b_h8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.2.us" start="20250718130000 -0400" stop="20250718150000 -0400">
+    <title lang="en">Live: Horse Racing</title>
+    <sub-title lang="en">Saratoga Live</sub-title>
+    <desc lang="en">From Saratoga Race Course in Saratoga Springs, N.Y.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Horse Racing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p727544_b_v12_bf.jpg" />
+  </programme>
+  <programme channel="Fox.Sports.2.us" start="20250718150000 -0400" stop="20250718163000 -0400">
+    <title lang="en">Live: IndyCar Racing</title>
+    <sub-title lang="en">Ontario Hona Dealers Indy Toronto, Practice 1</sub-title>
+    <desc lang="en">From Streets of Toronto in Toronto.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p737330_b_h8_ad.jpg" />
+  </programme>
+  <programme channel="Fox.Sports.2.us" start="20250718163000 -0400" stop="20250718165500 -0400">
+    <title lang="en">Kevin Harvick's Happy Hour</title>
+    <sub-title lang="en">Marcus Smith Interview</sub-title>
+    <desc lang="en">NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27869670_b_s4_ac.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.us" start="20250718165500 -0400" stop="20250718190000 -0400">
+    <title lang="en">Live: 2025 Copa América Femenina</title>
+    <sub-title lang="en">Uruguay vs. Peru</sub-title>
+    <desc lang="en">Group A.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG0020BNC1.jpg" />
+  </programme>
+  <programme channel="Fox.Sports.2.us" start="20250718190000 -0400" stop="20250718195500 -0400">
+    <title lang="en">MotoAmerica King of the Baggers Rewind</title>
+    <sub-title lang="en">Road America</sub-title>
+    <desc lang="en">MotoAmerica presents Mission King of the Baggers. Watch the Harley and Indian V-Twins go head to head to crown the King of the Baggers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle Racing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27954955_b_h8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.2.us" start="20250718195500 -0400" stop="20250718220000 -0400">
+    <title lang="en">Live: 2025 Copa América Femenina</title>
+    <sub-title lang="en">Argentina vs. Chile</sub-title>
+    <desc lang="en">Group A.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30144053_b_s3_aa.jpg" />
+  </programme>
+  <programme channel="Fox.Sports.2.us" start="20250718220000 -0400" stop="20250718230000 -0400">
+    <title lang="en">LIV Golf Highlights</title>
+    <sub-title lang="en">Andalucía</sub-title>
+    <desc lang="en">Professional golf highlights from LIV Golf competition.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29344277_b_h8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.2.us" start="20250718230000 -0400" stop="20250719020000 -0400">
+    <title lang="en">Live: AFL Premiership Football</title>
+    <sub-title lang="en">Hawthorn vs. Port Adelaide</sub-title>
+    <desc lang="en">From University of Tasmania Stadium in Launceston, Tasmania, Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Australian Rules Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3589784_i_h8_ab.jpg" />
+  </programme>
+  <programme channel="Fox.Sports.2.us" start="20250719020000 -0400" stop="20250719050000 -0400">
+    <title lang="en">Live: AFL Premiership Football</title>
+    <sub-title lang="en">Sydney Swans vs. North Melbourne</sub-title>
+    <desc lang="en">From Sydney Cricket Ground in Sydney.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Australian Rules Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG00206XXK.jpg" />
+  </programme>
   <programme channel="NFL.RedZone.us" start="20250715000000 -0400" stop="20250715080000 -0400">
     <title lang="en">Every Sunday Afternoon</title>
     <desc lang="en">Follow every NFL football game as teams enter the RedZone.</desc>
@@ -573,35 +649,26 @@
     <category lang="en">Football</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25599658_b_h8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="ESPNU.On.Demand.us" start="20250714060000 -0400" stop="20250714100000 -0400">
-    <title lang="en">ESPN U On Demand</title>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p660885_st_v8_aa.jpg" />
+  <programme channel="NFL.RedZone.us" start="20250717220000 -0400" stop="20250718060000 -0400">
+    <title lang="en">Every Sunday Afternoon</title>
+    <desc lang="en">Follow every NFL football game as teams enter the RedZone.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25599658_b_h8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="ESPNU.On.Demand.us" start="20250714100000 -0400" stop="20250714140000 -0400">
-    <title lang="en">ESPN U On Demand</title>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p660885_st_v8_aa.jpg" />
+  <programme channel="NFL.RedZone.us" start="20250718060000 -0400" stop="20250718140000 -0400">
+    <title lang="en">Every Sunday Afternoon</title>
+    <desc lang="en">Follow every NFL football game as teams enter the RedZone.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25599658_b_h8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="ESPNU.On.Demand.us" start="20250714140000 -0400" stop="20250714180000 -0400">
-    <title lang="en">ESPN U On Demand</title>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p660885_st_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="ESPNU.On.Demand.us" start="20250714180000 -0400" stop="20250714220000 -0400">
-    <title lang="en">ESPN U On Demand</title>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p660885_st_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="ESPNU.On.Demand.us" start="20250714220000 -0400" stop="20250715020000 -0400">
-    <title lang="en">ESPN U On Demand</title>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p660885_st_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="ESPNU.On.Demand.us" start="20250715020000 -0400" stop="20250715060000 -0400">
-    <title lang="en">ESPN U On Demand</title>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p660885_st_v8_aa.jpg" />
+  <programme channel="NFL.RedZone.us" start="20250718140000 -0400" stop="20250718220000 -0400">
+    <title lang="en">Every Sunday Afternoon</title>
+    <desc lang="en">Follow every NFL football game as teams enter the RedZone.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25599658_b_h8_ab.jpg" />
     <previously-shown /></programme>
   <programme channel="ESPNU.On.Demand.us" start="20250715060000 -0400" stop="20250715100000 -0400">
     <title lang="en">ESPN U On Demand</title>
@@ -684,6 +751,36 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p660885_st_v8_aa.jpg" />
     <previously-shown /></programme>
   <programme channel="ESPNU.On.Demand.us" start="20250717220000 -0400" stop="20250718020000 -0400">
+    <title lang="en">ESPN U On Demand</title>
+    <category lang="en">Performing Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p660885_st_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ESPNU.On.Demand.us" start="20250718020000 -0400" stop="20250718060000 -0400">
+    <title lang="en">ESPN U On Demand</title>
+    <category lang="en">Performing Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p660885_st_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ESPNU.On.Demand.us" start="20250718060000 -0400" stop="20250718100000 -0400">
+    <title lang="en">ESPN U On Demand</title>
+    <category lang="en">Performing Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p660885_st_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ESPNU.On.Demand.us" start="20250718100000 -0400" stop="20250718140000 -0400">
+    <title lang="en">ESPN U On Demand</title>
+    <category lang="en">Performing Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p660885_st_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ESPNU.On.Demand.us" start="20250718140000 -0400" stop="20250718180000 -0400">
+    <title lang="en">ESPN U On Demand</title>
+    <category lang="en">Performing Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p660885_st_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ESPNU.On.Demand.us" start="20250718180000 -0400" stop="20250718220000 -0400">
+    <title lang="en">ESPN U On Demand</title>
+    <category lang="en">Performing Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p660885_st_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ESPNU.On.Demand.us" start="20250718220000 -0400" stop="20250719020000 -0400">
     <title lang="en">ESPN U On Demand</title>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p660885_st_v8_aa.jpg" />
@@ -6171,23 +6268,11 @@
     <category lang="en">Soccer</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG0020BNT2.jpg" />
     <previously-shown /></programme>
-  <channel id="TSN4.ca">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90122_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90122_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">TSN4</display-name>
-  </channel>
   <channel id="TSN1.ca">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11182_h15_aa.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11182_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">TSN1</display-name>
-  </channel>
-  <channel id="TSN2.ca">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18990_h15_ab.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18990_h15_ab.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">TSN2</display-name>
   </channel>
   <channel id="TSN5.ca">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90124_h15_aa.png" />
@@ -6201,191 +6286,18 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">TSN3</display-name>
   </channel>
-  <programme channel="TSN3.ca" start="20250713060000 -0400" stop="20250713070000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250713070000 -0400" stop="20250713080000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250713080000 -0400" stop="20250713090000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250713090000 -0400" stop="20250713100000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250713100000 -0400" stop="20250713110000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250713110000 -0400" stop="20250713120000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250713120000 -0400" stop="20250713130000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250713130000 -0400" stop="20250713133000 -0400">
-    <title lang="en">A Clean Sheet: Gabe Landeskog</title>
-    <sub-title lang="en">Fox and the Fiddle</sub-title>
-    <desc lang="en">Mel reflects on her relationship with Gabe; at Gabe's six-month postop visit, things look hopeful but a setback brings him back to square one.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29206723_b_v12_aa.jpg" />
-    <episode-num system="onscreen">E2</episode-num>
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250713133000 -0400" stop="20250713140000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top Super Bowl Moments</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250713140000 -0400" stop="20250713143000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top 50 NBA Buzzer Beaters</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250713143000 -0400" stop="20250713145200 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top 40 Trick Plays of All-Time</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250713145200 -0400" stop="20250713170000 -0400">
-    <title lang="en">Live: UEFA Women's EURO 2025</title>
-    <sub-title lang="en">Netherlands vs. France</sub-title>
-    <desc lang="en">Group D.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG00254QTF.jpg" />
-  </programme>
-  <programme channel="TSN3.ca" start="20250713170000 -0400" stop="20250713173000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top 50 Goals of All-Time</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250713173000 -0400" stop="20250713180000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top World Juniors Moments</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250713180000 -0400" stop="20250713200000 -0400">
-    <title lang="en">Live: Canadian Premier League Soccer</title>
-    <sub-title lang="en">Valour FC at York United</sub-title>
-    <desc lang="en">From York Lions Stadium in Toronto.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16758077_i_s4_aa.jpg" />
-  </programme>
-  <programme channel="TSN3.ca" start="20250713200000 -0400" stop="20250713220000 -0400">
-    <title lang="en">Live: CFL Football</title>
-    <sub-title lang="en">BC Lions at Edmonton Elks</sub-title>
-    <desc lang="en">An abbreviated Week 6 in the CFL concludes with the Elks (1-3) hosting the Lions (2-3). The teams started the season in Vancouver with BC claiming a 31-14 victory over Edmonton. Nathan Rourke (BC) threw three TD passes, two to Stanley Berryhill III.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG0024S541.jpg" />
-  </programme>
-  <programme channel="TSN3.ca" start="20250713220000 -0400" stop="20250713230000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN3.ca" start="20250713230000 -0400" stop="20250714000000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN3.ca" start="20250714000000 -0400" stop="20250714010000 -0400">
-    <title lang="en">Live: SC With Jay Onrait</title>
-    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
-  </programme>
-  <programme channel="TSN3.ca" start="20250714010000 -0400" stop="20250714020000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN3.ca" start="20250714020000 -0400" stop="20250714030000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250714030000 -0400" stop="20250714033000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250714033000 -0400" stop="20250714043000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250714043000 -0400" stop="20250714053000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250714053000 -0400" stop="20250714053000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
+  <channel id="TSN2.ca">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18990_h15_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18990_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">TSN2</display-name>
+  </channel>
+  <channel id="TSN4.ca">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90122_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90122_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">TSN4</display-name>
+  </channel>
   <programme channel="TSN3.ca" start="20250714053000 -0400" stop="20250714063000 -0400">
     <title lang="en">SportsCentre</title>
     <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
@@ -6955,145 +6867,186 @@
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250713060000 -0400" stop="20250713070000 -0400">
+  <programme channel="TSN3.ca" start="20250717053000 -0400" stop="20250717053000 -0400">
     <title lang="en">SportsCentre</title>
     <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250713070000 -0400" stop="20250713080000 -0400">
+  <programme channel="TSN3.ca" start="20250717053000 -0400" stop="20250717063000 -0400">
     <title lang="en">SportsCentre</title>
     <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250713080000 -0400" stop="20250713090000 -0400">
+  <programme channel="TSN3.ca" start="20250717063000 -0400" stop="20250717073000 -0400">
     <title lang="en">SportsCentre</title>
     <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250713090000 -0400" stop="20250713113000 -0400">
-    <title lang="en">Live: FIA Formula E World Championship Racing</title>
-    <sub-title lang="en">Berlin ePrix, Race</sub-title>
-    <desc lang="en">The Berlin E-Prix weekend winds down as Formula E drivers once again take to Tempelhof Airport Street Circuit. In 2024, Nick Cassidy won the first event of the weekend before finishing runner-up to António Félix da Costa in the second.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11055708_i_s2_ae.jpg" />
-  </programme>
-  <programme channel="TSN5.ca" start="20250713113000 -0400" stop="20250713120000 -0400">
+  <programme channel="TSN3.ca" start="20250717073000 -0400" stop="20250717083000 -0400">
     <title lang="en">SportsCentre</title>
     <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250713120000 -0400" stop="20250713123000 -0400">
+  <programme channel="TSN3.ca" start="20250717083000 -0400" stop="20250717093000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN3.ca" start="20250717093000 -0400" stop="20250717103000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN3.ca" start="20250717103000 -0400" stop="20250717113000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN3.ca" start="20250717113000 -0400" stop="20250717123000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN3.ca" start="20250717123000 -0400" stop="20250717130000 -0400">
     <title lang="en">SC</title>
-    <sub-title lang="en">June Plays of the Month</sub-title>
+    <sub-title lang="en">Top Rivalries in Sports</sub-title>
     <desc lang="en">The best and worst from the world of sports.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Anthology</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250713123000 -0400" stop="20250713130000 -0400">
-    <title lang="en">Porsche Supercup</title>
-    <sub-title lang="en">Round 4: Spielberg, Race</sub-title>
-    <desc lang="en">From Red Bull Ring in Austria.</desc>
+  <programme channel="TSN3.ca" start="20250717130000 -0400" stop="20250717133000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top Overtime Moments</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8181822_i_h10_ad.jpg" />
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250713130000 -0400" stop="20250713150000 -0400">
-    <title lang="en">Live: WNBA Basketball</title>
-    <sub-title lang="en">Dallas Wings at Indiana Fever</sub-title>
-    <desc lang="en">The Fever and Wings square off, with Caitlin Clark and Paige Bueckers set for their first WNBA duel. Clark missed Indiana's 94-86 win over Dallas on June 27 due to injury. Bueckers led the Wings with 27 points, six assists, two steals and two blocks.</desc>
+  <programme channel="TSN3.ca" start="20250717133000 -0400" stop="20250717140000 -0400">
+    <title lang="en">Canadian Superbike Championship</title>
+    <sub-title lang="en">Round 2: Pro Supersport, Race 1</sub-title>
+    <desc lang="en">From Atlantic Motorsport Park in Mill Village, Nova Scotia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle Racing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27644807_b_v12_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN3.ca" start="20250717140000 -0400" stop="20250717143000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 40 Trick Plays of All-Time</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN3.ca" start="20250717143000 -0400" stop="20250717150000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 Goals of All-Time</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN3.ca" start="20250717150000 -0400" stop="20250717160000 -0400">
+    <title lang="en">Live: NBA Today</title>
+    <desc lang="en">In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191289_i_h8_ac.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20706981_i_s2_ac.jpg" />
   </programme>
-  <programme channel="TSN5.ca" start="20250713150000 -0400" stop="20250713153000 -0400">
-    <title lang="en">Live: NASCAR Cup Series Prerace</title>
-    <sub-title lang="en">Toyota / Save Mart 350</sub-title>
-    <desc lang="en">Featuring the latest news, highlights and interviews.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17837810_b_h8_aa.jpg" />
-  </programme>
-  <programme channel="TSN5.ca" start="20250713153000 -0400" stop="20250713190000 -0400">
-    <title lang="en">Live: NASCAR Cup Series</title>
-    <sub-title lang="en">Challenge Round 3 - Toyota / Save Mart 350</sub-title>
-    <desc lang="en">Shane van Gisbergen competes in the NASCAR Cup Series' Toyota/Save Mart 350 in California. The Kiwi driver picked up his fourth victory in five tries in the streets of Chicago after sweeping a pair of races in the Windy City over the holiday weekend.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17799520_b_s3_ad.jpg" />
-  </programme>
-  <programme channel="TSN5.ca" start="20250713190000 -0400" stop="20250713220000 -0400">
-    <title lang="en">Live: CFL Football</title>
-    <sub-title lang="en">BC Lions at Edmonton Elks</sub-title>
-    <desc lang="en">An abbreviated Week 6 in the CFL concludes with the Elks (1-3) hosting the Lions (2-3). The teams started the season in Vancouver with BC claiming a 31-14 victory over Edmonton. Nathan Rourke (BC) threw three TD passes, two to Stanley Berryhill III.</desc>
+  <programme channel="TSN3.ca" start="20250717160000 -0400" stop="20250717170000 -0400">
+    <title lang="en">Live: NFL Live</title>
+    <desc lang="en">Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG0024S541.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p267723_i_s4_ae.jpg" />
   </programme>
-  <programme channel="TSN5.ca" start="20250713220000 -0400" stop="20250713230000 -0400">
+  <programme channel="TSN3.ca" start="20250717170000 -0400" stop="20250717173000 -0400">
+    <title lang="en">SailGP: Racing on the Edge</title>
+    <sub-title lang="en">The Crew from The Lake</sub-title>
+    <desc lang="en">The story of SailGP and the people involved with it.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19817224_b_s2_ab.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN3.ca" start="20250717173000 -0400" stop="20250717180000 -0400">
+    <title lang="en">Live: Pardon the Interruption</title>
+    <desc lang="en">Opinions regarding the day's top sports stories.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186288_b_h8_ag.jpg" />
+  </programme>
+  <programme channel="TSN3.ca" start="20250717180000 -0400" stop="20250717190000 -0400">
     <title lang="en">Live: SportsCentre</title>
     <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
   </programme>
-  <programme channel="TSN5.ca" start="20250713230000 -0400" stop="20250714000000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+  <programme channel="TSN3.ca" start="20250717190000 -0400" stop="20250718000000 -0400">
+    <title lang="en">Live: 2025 Open Championship</title>
+    <sub-title lang="en">First Round</sub-title>
+    <desc lang="en">From Royal Portrush Golf Club in Ireland.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <category lang="en">Golf</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28817950_b_v12_aa.jpg" />
   </programme>
-  <programme channel="TSN5.ca" start="20250714000000 -0400" stop="20250714010000 -0400">
+  <programme channel="TSN3.ca" start="20250718000000 -0400" stop="20250718010000 -0400">
     <title lang="en">Live: SC With Jay Onrait</title>
     <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
   </programme>
-  <programme channel="TSN5.ca" start="20250714010000 -0400" stop="20250714020000 -0400">
+  <programme channel="TSN3.ca" start="20250718010000 -0400" stop="20250718020000 -0400">
     <title lang="en">Live: SportsCentre</title>
     <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
   </programme>
-  <programme channel="TSN5.ca" start="20250714020000 -0400" stop="20250714030000 -0400">
+  <programme channel="TSN3.ca" start="20250718020000 -0400" stop="20250718030000 -0400">
     <title lang="en">SportsCentre</title>
     <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250714030000 -0400" stop="20250714040000 -0400">
-    <title lang="en">SC With Jay Onrait</title>
-    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+  <programme channel="TSN3.ca" start="20250718030000 -0400" stop="20250718033000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250714040000 -0400" stop="20250714050000 -0400">
-    <title lang="en">SC With Jay Onrait</title>
-    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+  <programme channel="TSN3.ca" start="20250718033000 -0400" stop="20250718043000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250714050000 -0400" stop="20250714060000 -0400">
-    <title lang="en">SC With Jay Onrait</title>
-    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+  <programme channel="TSN3.ca" start="20250718043000 -0400" stop="20250718053000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
   <programme channel="TSN5.ca" start="20250714060000 -0400" stop="20250714070000 -0400">
     <title lang="en">SC With Jay Onrait</title>
@@ -7648,153 +7601,147 @@
     <category lang="en">Talk Show</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250713060000 -0400" stop="20250713070000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+  <programme channel="TSN5.ca" start="20250717050000 -0400" stop="20250717060000 -0400">
+    <title lang="en">SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250713070000 -0400" stop="20250713080000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+  <programme channel="TSN5.ca" start="20250717060000 -0400" stop="20250717070000 -0400">
+    <title lang="en">SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250713080000 -0400" stop="20250713100000 -0400">
-    <title lang="en">Live: 2025 Wimbledon Championships</title>
-    <sub-title lang="en">Ladies' Doubles Final</sub-title>
-    <desc lang="en">From the All England Lawn Tennis and Croquet Club in Wimbledon, England.</desc>
+  <programme channel="TSN5.ca" start="20250717070000 -0400" stop="20250717080000 -0400">
+    <title lang="en">SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29531489_b_v12_aa.jpg" />
-  </programme>
-  <programme channel="TSN1.ca" start="20250713100000 -0400" stop="20250713110000 -0400">
-    <title lang="en">Live: Breakfast at Wimbledon</title>
-    <desc lang="en">Breakfast at Wimbledon gets the viewer ready for that day's action with previews, discussion and behind-the-scenes features at the All England Club.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30509128_b_s2_aa.jpg" />
-  </programme>
-  <programme channel="TSN1.ca" start="20250713110000 -0400" stop="20250713150000 -0400">
-    <title lang="en">Live: 2025 Wimbledon Championships</title>
-    <sub-title lang="en">Gentlemen's Final: Jannik Sinner vs. Carlos Alcaraz</sub-title>
-    <desc lang="en">Top-seeded Jannik Sinner takes on two-time defending champion Carlos Alcaraz for the Wimbledon title. This is a rematch of their thrilling Roland Garros final last month, won by Alcaraz in five sets.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29531489_b_v12_aa.jpg" />
-  </programme>
-  <programme channel="TSN1.ca" start="20250713150000 -0400" stop="20250713170000 -0400">
-    <title lang="en">Live: UEFA Women's EURO 2025</title>
-    <sub-title lang="en">Netherlands vs. France</sub-title>
-    <desc lang="en">Group D.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG00254QTF.jpg" />
-  </programme>
-  <programme channel="TSN1.ca" start="20250713170000 -0400" stop="20250713173000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top 50 Goals of All-Time</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250713173000 -0400" stop="20250713180000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top World Juniors Moments</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
+  <programme channel="TSN5.ca" start="20250717080000 -0400" stop="20250717090000 -0400">
+    <title lang="en">SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250713180000 -0400" stop="20250713183000 -0400">
-    <title lang="en">Why We Love Football</title>
-    <desc lang="en">Sports talk centered around the latest moves and news in the CFL and NFL.</desc>
+  <programme channel="TSN5.ca" start="20250717090000 -0400" stop="20250717100000 -0400">
+    <title lang="en">SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN5.ca" start="20250717100000 -0400" stop="20250717110000 -0400">
+    <title lang="en">SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN5.ca" start="20250717110000 -0400" stop="20250717120000 -0400">
+    <title lang="en">SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN5.ca" start="20250717120000 -0400" stop="20250717150000 -0400">
+    <title lang="en">Live: AFL Premiership Football</title>
+    <sub-title lang="en">Essendon vs. GWS GIANTS</sub-title>
+    <desc lang="en">From Marvel Stadium in Melbourne, Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Australian Rules Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG00206X5B.jpg" />
+  </programme>
+  <programme channel="TSN5.ca" start="20250717150000 -0400" stop="20250717160000 -0400">
+    <title lang="en">Live: NBA Today</title>
+    <desc lang="en">In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20706981_i_s2_ac.jpg" />
+  </programme>
+  <programme channel="TSN5.ca" start="20250717160000 -0400" stop="20250717170000 -0400">
+    <title lang="en">Live: NFL Live</title>
+    <desc lang="en">Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30675623_b_h8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250713183000 -0400" stop="20250713190000 -0400">
-    <title lang="en">A Clean Sheet: Gabe Landeskog</title>
-    <sub-title lang="en">Tough Times Don't Last</sub-title>
-    <desc lang="en">Gabe's first solo skate sparks media buzz, but a new setback threatens to delay his return once again; as doubt creeps in, he faces his toughest battle yet and begins to question his own recovery.</desc>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p267723_i_s4_ae.jpg" />
+  </programme>
+  <programme channel="TSN5.ca" start="20250717170000 -0400" stop="20250717173000 -0400">
+    <title lang="en">SailGP: Racing on the Edge</title>
+    <sub-title lang="en">The Crew from The Lake</sub-title>
+    <desc lang="en">The story of SailGP and the people involved with it.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29206723_b_v12_aa.jpg" />
-    <episode-num system="onscreen">E3</episode-num>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19817224_b_s2_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250713190000 -0400" stop="20250713220000 -0400">
+  <programme channel="TSN5.ca" start="20250717173000 -0400" stop="20250717180000 -0400">
+    <title lang="en">Live: Pardon the Interruption</title>
+    <desc lang="en">Opinions regarding the day's top sports stories.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186288_b_h8_ag.jpg" />
+  </programme>
+  <programme channel="TSN5.ca" start="20250717180000 -0400" stop="20250717193000 -0400">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+  </programme>
+  <programme channel="TSN5.ca" start="20250717193000 -0400" stop="20250717223000 -0400">
     <title lang="en">Live: CFL Football</title>
-    <sub-title lang="en">BC Lions at Edmonton Elks</sub-title>
-    <desc lang="en">An abbreviated Week 6 in the CFL concludes with the Elks (1-3) hosting the Lions (2-3). The teams started the season in Vancouver with BC claiming a 31-14 victory over Edmonton. Nathan Rourke (BC) threw three TD passes, two to Stanley Berryhill III.</desc>
+    <sub-title lang="en">Toronto Argonauts at Montreal Alouettes</sub-title>
+    <desc lang="en">From Percival Molson Memorial Stadium in Montreal.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG0024S541.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG00253QGE.jpg" />
   </programme>
-  <programme channel="TSN1.ca" start="20250713220000 -0400" stop="20250713230000 -0400">
+  <programme channel="TSN5.ca" start="20250717223000 -0400" stop="20250718000000 -0400">
     <title lang="en">Live: SportsCentre</title>
     <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
   </programme>
-  <programme channel="TSN1.ca" start="20250713230000 -0400" stop="20250714000000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN1.ca" start="20250714000000 -0400" stop="20250714010000 -0400">
+  <programme channel="TSN5.ca" start="20250718000000 -0400" stop="20250718010000 -0400">
     <title lang="en">Live: SC With Jay Onrait</title>
     <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
   </programme>
-  <programme channel="TSN1.ca" start="20250714010000 -0400" stop="20250714020000 -0400">
+  <programme channel="TSN5.ca" start="20250718010000 -0400" stop="20250718020000 -0400">
     <title lang="en">Live: SportsCentre</title>
     <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
   </programme>
-  <programme channel="TSN1.ca" start="20250714020000 -0400" stop="20250714030000 -0400">
+  <programme channel="TSN5.ca" start="20250718020000 -0400" stop="20250718030000 -0400">
     <title lang="en">SportsCentre</title>
     <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250714030000 -0400" stop="20250714033000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+  <programme channel="TSN5.ca" start="20250718030000 -0400" stop="20250718040000 -0400">
+    <title lang="en">SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250714033000 -0400" stop="20250714043000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+  <programme channel="TSN5.ca" start="20250718040000 -0400" stop="20250718050000 -0400">
+    <title lang="en">SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250714043000 -0400" stop="20250714053000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250714053000 -0400" stop="20250714053000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
     <previously-shown /></programme>
   <programme channel="TSN1.ca" start="20250714053000 -0400" stop="20250714063000 -0400">
     <title lang="en">SportsCentre</title>
@@ -8345,125 +8292,178 @@
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250713060000 -0400" stop="20250713090000 -0400">
-    <title lang="en">CFL Football</title>
-    <sub-title lang="en">Ottawa Redblacks at Hamilton Tiger-Cats</sub-title>
-    <desc lang="en">The Tiger-Cats ride high into Hamilton Stadium ready to roll against the Redblacks. Hamilton has put up 86 points and won back-to-back games since its bye and an 0-2 start. Ottawa won the 2024 season series, but Hamilton won 37-21 at home Sept. 14.</desc>
+  <programme channel="TSN1.ca" start="20250717053000 -0400" stop="20250717053000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191256_i_s4_aa.jpg" />
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250713090000 -0400" stop="20250713110000 -0400">
-    <title lang="en">MLS Soccer</title>
-    <sub-title lang="en">Atlanta United FC at Toronto FC</sub-title>
-    <desc lang="en">Atlanta United play TFC in Canada. Atlanta sits one point up on Toronto in the East despite a current 0-3-1 run of form. The Reds are 5-1-2 all-time playing the Five Stripes at BMO Field, and blanked the Timbers 3-0 in their last home outing July 12.</desc>
+  <programme channel="TSN1.ca" start="20250717053000 -0400" stop="20250717063000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG001K022N.jpg" />
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250713110000 -0400" stop="20250713140000 -0400">
-    <title lang="en">CFL Football</title>
-    <sub-title lang="en">Ottawa Redblacks at Hamilton Tiger-Cats</sub-title>
-    <desc lang="en">The Tiger-Cats ride high into Hamilton Stadium ready to roll against the Redblacks. Hamilton has put up 86 points and won back-to-back games since its bye and an 0-2 start. Ottawa won the 2024 season series, but Hamilton won 37-21 at home Sept. 14.</desc>
+  <programme channel="TSN1.ca" start="20250717063000 -0400" stop="20250717073000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191256_i_s4_aa.jpg" />
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250713140000 -0400" stop="20250713143000 -0400">
+  <programme channel="TSN1.ca" start="20250717073000 -0400" stop="20250717083000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN1.ca" start="20250717083000 -0400" stop="20250717093000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN1.ca" start="20250717093000 -0400" stop="20250717103000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN1.ca" start="20250717103000 -0400" stop="20250717113000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN1.ca" start="20250717113000 -0400" stop="20250717123000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN1.ca" start="20250717123000 -0400" stop="20250717133000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN1.ca" start="20250717133000 -0400" stop="20250717140000 -0400">
+    <title lang="en">Canadian Superbike Championship</title>
+    <sub-title lang="en">Round 2: Pro Supersport, Race 1</sub-title>
+    <desc lang="en">From Atlantic Motorsport Park in Mill Village, Nova Scotia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle Racing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27644807_b_v12_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN1.ca" start="20250717140000 -0400" stop="20250717143000 -0400">
+    <title lang="en">2025 Motorcycle Experience</title>
+    <desc lang="en">News and reviews from cycle enthusiasts.</desc>
+    <category lang="en">Automotive</category>
+    <category lang="en">Sports</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30211858_b_v12_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN1.ca" start="20250717143000 -0400" stop="20250717145200 -0400">
     <title lang="en">SC</title>
-    <sub-title lang="en">Top Fan Moments</sub-title>
+    <sub-title lang="en">Top 10 Women's World Hockey Championship Games</sub-title>
     <desc lang="en">The best and worst from the world of sports.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Anthology</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250713143000 -0400" stop="20250713145200 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top Playoff Soundbites</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250713145200 -0400" stop="20250713170000 -0400">
+  <programme channel="TSN1.ca" start="20250717145200 -0400" stop="20250717170000 -0400">
     <title lang="en">Live: UEFA Women's EURO 2025</title>
-    <sub-title lang="en">England vs. Wales</sub-title>
-    <desc lang="en">Group D.</desc>
+    <sub-title lang="en">Spain vs. Switzerland</sub-title>
+    <desc lang="en">Quarterfinal.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG00258Y44.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29593827_b_h8_aa.jpg" />
   </programme>
-  <programme channel="TSN2.ca" start="20250713170000 -0400" stop="20250713173000 -0400">
+  <programme channel="TSN1.ca" start="20250717170000 -0400" stop="20250717173000 -0400">
     <title lang="en">SC</title>
-    <sub-title lang="en">Top Comebacks of All-Time</sub-title>
+    <sub-title lang="en">Top Rivalries in Sports</sub-title>
     <desc lang="en">The best and worst from the world of sports.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Anthology</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250713173000 -0400" stop="20250713180000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Best and Worst Celebrations</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
+  <programme channel="TSN1.ca" start="20250717173000 -0400" stop="20250717180000 -0400">
+    <title lang="en">Live: Pardon the Interruption</title>
+    <desc lang="en">Opinions regarding the day's top sports stories.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250713180000 -0400" stop="20250713183000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top 40 Trick Plays of All-Time</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186288_b_h8_ag.jpg" />
+  </programme>
+  <programme channel="TSN1.ca" start="20250717180000 -0400" stop="20250717193000 -0400">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250713183000 -0400" stop="20250713223000 -0400">
-    <title lang="en">2025 Wimbledon Championships</title>
-    <sub-title lang="en">Gentlemen's Final: Jannik Sinner vs. Carlos Alcaraz</sub-title>
-    <desc lang="en">Top-seeded Jannik Sinner takes on two-time defending champion Carlos Alcaraz for the Wimbledon title. This is a rematch of their thrilling Roland Garros final last month, won by Alcaraz in five sets.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29531489_b_v12_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250713223000 -0400" stop="20250713230000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top 50 Tennis Shots of All-Time</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250713230000 -0400" stop="20250713233000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">June Plays of the Month</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250713233000 -0400" stop="20250714000000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top 50 NBA Buzzer Beaters</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250714000000 -0400" stop="20250714030000 -0400">
-    <title lang="en">CFL Football</title>
-    <sub-title lang="en">BC Lions at Edmonton Elks</sub-title>
-    <desc lang="en">An abbreviated Week 6 in the CFL concludes with the Elks (1-3) hosting the Lions (2-3). The teams started the season in Vancouver with BC claiming a 31-14 victory over Edmonton. Nathan Rourke (BC) threw three TD passes, two to Stanley Berryhill III.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+  </programme>
+  <programme channel="TSN1.ca" start="20250717193000 -0400" stop="20250717223000 -0400">
+    <title lang="en">Live: CFL Football</title>
+    <sub-title lang="en">Toronto Argonauts at Montreal Alouettes</sub-title>
+    <desc lang="en">From Percival Molson Memorial Stadium in Montreal.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG0024S541.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250714030000 -0400" stop="20250714060000 -0400">
-    <title lang="en">CFL Football</title>
-    <sub-title lang="en">BC Lions at Edmonton Elks</sub-title>
-    <desc lang="en">An abbreviated Week 6 in the CFL concludes with the Elks (1-3) hosting the Lions (2-3). The teams started the season in Vancouver with BC claiming a 31-14 victory over Edmonton. Nathan Rourke (BC) threw three TD passes, two to Stanley Berryhill III.</desc>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG00253QGE.jpg" />
+  </programme>
+  <programme channel="TSN1.ca" start="20250717223000 -0400" stop="20250718000000 -0400">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG0024S541.jpg" />
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+  </programme>
+  <programme channel="TSN1.ca" start="20250718000000 -0400" stop="20250718010000 -0400">
+    <title lang="en">Live: SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+  </programme>
+  <programme channel="TSN1.ca" start="20250718010000 -0400" stop="20250718020000 -0400">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+  </programme>
+  <programme channel="TSN1.ca" start="20250718020000 -0400" stop="20250718030000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN1.ca" start="20250718030000 -0400" stop="20250718033000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN1.ca" start="20250718033000 -0400" stop="20250718043000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN1.ca" start="20250718043000 -0400" stop="20250718053000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
   <programme channel="TSN2.ca" start="20250714060000 -0400" stop="20250714090000 -0400">
     <title lang="en">CFL Football</title>
@@ -9208,155 +9208,187 @@
     <category lang="en">Anthology</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250713060000 -0400" stop="20250713070000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250713070000 -0400" stop="20250713080000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250713080000 -0400" stop="20250713100000 -0400">
-    <title lang="en">Live: 2025 Wimbledon Championships</title>
-    <sub-title lang="en">Ladies' Doubles Final</sub-title>
-    <desc lang="en">From the All England Lawn Tennis and Croquet Club in Wimbledon, England.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29531489_b_v12_aa.jpg" />
-  </programme>
-  <programme channel="TSN4.ca" start="20250713100000 -0400" stop="20250713110000 -0400">
-    <title lang="en">Live: Breakfast at Wimbledon</title>
-    <desc lang="en">Breakfast at Wimbledon gets the viewer ready for that day's action with previews, discussion and behind-the-scenes features at the All England Club.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30509128_b_s2_aa.jpg" />
-  </programme>
-  <programme channel="TSN4.ca" start="20250713110000 -0400" stop="20250713150000 -0400">
-    <title lang="en">Live: 2025 Wimbledon Championships</title>
-    <sub-title lang="en">Gentlemen's Final: Jannik Sinner vs. Carlos Alcaraz</sub-title>
-    <desc lang="en">Top-seeded Jannik Sinner takes on two-time defending champion Carlos Alcaraz for the Wimbledon title. This is a rematch of their thrilling Roland Garros final last month, won by Alcaraz in five sets.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29531489_b_v12_aa.jpg" />
-  </programme>
-  <programme channel="TSN4.ca" start="20250713150000 -0400" stop="20250713153000 -0400">
+  <programme channel="TSN2.ca" start="20250717053000 -0400" stop="20250717060000 -0400">
     <title lang="en">SC</title>
-    <sub-title lang="en">June Plays of the Month</sub-title>
+    <sub-title lang="en">Top 50 Goals of All-Time</sub-title>
     <desc lang="en">The best and worst from the world of sports.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Anthology</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250713153000 -0400" stop="20250713160000 -0400">
+  <programme channel="TSN2.ca" start="20250717060000 -0400" stop="20250717063000 -0400">
     <title lang="en">SC</title>
-    <sub-title lang="en">Top 50 CHL Goals</sub-title>
+    <sub-title lang="en">Top 50 NBA Buzzer Beaters</sub-title>
     <desc lang="en">The best and worst from the world of sports.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Anthology</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250713160000 -0400" stop="20250713163000 -0400">
+  <programme channel="TSN2.ca" start="20250717063000 -0400" stop="20250717070000 -0400">
     <title lang="en">SC</title>
-    <sub-title lang="en">Top 10 Grey Cup Games</sub-title>
+    <sub-title lang="en">Top 50 Goals of All-Time</sub-title>
     <desc lang="en">The best and worst from the world of sports.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Anthology</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250713163000 -0400" stop="20250713170000 -0400">
+  <programme channel="TSN2.ca" start="20250717070000 -0400" stop="20250717073000 -0400">
     <title lang="en">SC</title>
-    <sub-title lang="en">Wacky CFL Moments</sub-title>
+    <sub-title lang="en">Top 50 NBA Buzzer Beaters</sub-title>
     <desc lang="en">The best and worst from the world of sports.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Anthology</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250713170000 -0400" stop="20250713180000 -0400">
-    <title lang="en">Live: Baseball Tonight</title>
-    <desc lang="en">Nightly baseball news and highlights.</desc>
-    <credits>
-      <actor>Adnan Virk</actor>
-    </credits>
+  <programme channel="TSN2.ca" start="20250717073000 -0400" stop="20250717080000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 Goals of All-Time</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p337588_i_h8_ab.jpg" />
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250717080000 -0400" stop="20250717083000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 NBA Buzzer Beaters</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250717083000 -0400" stop="20250717090000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 Goals of All-Time</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250717090000 -0400" stop="20250717093000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 NBA Buzzer Beaters</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250717093000 -0400" stop="20250717100000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 Goals of All-Time</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250717100000 -0400" stop="20250717120000 -0400">
+    <title lang="en">MLS Soccer</title>
+    <sub-title lang="en">Toronto FC at San Diego FC</sub-title>
+    <desc lang="en">From Snapdragon Stadium in San Diego.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191274_b_s2_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250717120000 -0400" stop="20250717140000 -0400">
+    <title lang="en">Live: The Pat McAfee Show</title>
+    <desc lang="en">Former NFL punter Pat McAfee brings his humor and candor to the microphone to highlight the day's top stories.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18762527_b_s4_ab.jpg" />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
   </programme>
-  <programme channel="TSN4.ca" start="20250713180000 -0400" stop="20250713210000 -0400">
-    <title lang="en">Live: 2025 MLB Draft</title>
-    <desc lang="en">Coverage of the MLB Draft from Atlanta.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30266948_i_s4_aa.jpg" />
-  </programme>
-  <programme channel="TSN4.ca" start="20250713210000 -0400" stop="20250713220000 -0400">
-    <title lang="en">Live: CFL Football</title>
-    <sub-title lang="en">BC Lions at Edmonton Elks</sub-title>
-    <desc lang="en">An abbreviated Week 6 in the CFL concludes with the Elks (1-3) hosting the Lions (2-3). The teams started the season in Vancouver with BC claiming a 31-14 victory over Edmonton. Nathan Rourke (BC) threw three TD passes, two to Stanley Berryhill III.</desc>
+  <programme channel="TSN2.ca" start="20250717140000 -0400" stop="20250717150000 -0400">
+    <title lang="en">College Football Live</title>
+    <desc lang="en">ESPN's daily college football show sharing reactions to the day's biggest stories and previews of each week's most important matchups. Kelsey Riggs and Jen Lada host alongside contributors Desmond Howard, Sam Acho, Greg McElroy and Pete Thamel.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG0024S541.jpg" />
-  </programme>
-  <programme channel="TSN4.ca" start="20250713220000 -0400" stop="20250713230000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN4.ca" start="20250713230000 -0400" stop="20250714000000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN4.ca" start="20250714000000 -0400" stop="20250714010000 -0400">
-    <title lang="en">Live: SC With Jay Onrait</title>
-    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
-  </programme>
-  <programme channel="TSN4.ca" start="20250714010000 -0400" stop="20250714020000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN4.ca" start="20250714020000 -0400" stop="20250714030000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p221266_i_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250714030000 -0400" stop="20250714040000 -0400">
-    <title lang="en">SC With Jay Onrait</title>
-    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+  <programme channel="TSN2.ca" start="20250717150000 -0400" stop="20250717160000 -0400">
+    <title lang="en">PBR Bull Riding</title>
+    <sub-title lang="en">2025 Tour: Albuquerque, N.M</sub-title>
+    <desc lang="en">Coverage of classic bull riding events from around the United States.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+    <category lang="en">Rodeo</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12888727_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250714040000 -0400" stop="20250714050000 -0400">
-    <title lang="en">SC With Jay Onrait</title>
-    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+  <programme channel="TSN2.ca" start="20250717160000 -0400" stop="20250717190000 -0400">
+    <title lang="en">Live: Overdrive</title>
+    <desc lang="en">Expert analysis on the day's biggest sports stories.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10291361_b_s4_ab.jpg" />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="TSN2.ca" start="20250717190000 -0400" stop="20250717210000 -0400">
+    <title lang="en">Live: NBA Summer League Basketball</title>
+    <sub-title lang="en">Teams TBA</sub-title>
+    <desc lang="en">Basketball action from the NBA Summer League.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3607071_b_v8_at.jpg" />
+  </programme>
+  <programme channel="TSN2.ca" start="20250717210000 -0400" stop="20250717230000 -0400">
+    <title lang="en">Live: NBA Summer League Basketball</title>
+    <sub-title lang="en">Teams TBA</sub-title>
+    <desc lang="en">Basketball action from the NBA Summer League.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3607071_b_v8_at.jpg" />
+  </programme>
+  <programme channel="TSN2.ca" start="20250717230000 -0400" stop="20250717233000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 NBA Buzzer Beaters</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250714050000 -0400" stop="20250714060000 -0400">
-    <title lang="en">SC With Jay Onrait</title>
-    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+  <programme channel="TSN2.ca" start="20250717233000 -0400" stop="20250718000000 -0400">
+    <title lang="en">Why We Love Football</title>
+    <desc lang="en">Sports talk centered around the latest moves and news in the CFL and NFL.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30675623_b_h8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250718000000 -0400" stop="20250718010000 -0400">
+    <title lang="en">The Amazing Race Canada</title>
+    <sub-title lang="en">I'd Hug You But I Smell</sub-title>
+    <desc lang="en">Racers travel to Lake Louise, Alberta and Golden, British Columbia, and must pick wisely to not get frozen out of the search.</desc>
+    <category lang="en">Travel</category>
+    <category lang="en">Game Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10017313_b_h8_aq.jpg" />
+    <episode-num system="onscreen">E1102</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="TSN2.ca" start="20250718010000 -0400" stop="20250718013000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Best and Worst Celebrations</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250718013000 -0400" stop="20250718043000 -0400">
+    <title lang="en">CFL Football</title>
+    <sub-title lang="en">Toronto Argonauts at Montreal Alouettes</sub-title>
+    <desc lang="en">From Percival Molson Memorial Stadium in Montreal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG00253QGE.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250718043000 -0400" stop="20250718050000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Best and Worst Celebrations</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
     <previously-shown /></programme>
   <programme channel="TSN4.ca" start="20250714060000 -0400" stop="20250714070000 -0400">
     <title lang="en">SC With Jay Onrait</title>
@@ -9839,6 +9871,157 @@
     <category lang="en">Talk Show</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
     <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250717050000 -0400" stop="20250717060000 -0400">
+    <title lang="en">SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250717060000 -0400" stop="20250717070000 -0400">
+    <title lang="en">SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250717070000 -0400" stop="20250717080000 -0400">
+    <title lang="en">SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250717080000 -0400" stop="20250717090000 -0400">
+    <title lang="en">SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250717090000 -0400" stop="20250717100000 -0400">
+    <title lang="en">SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250717100000 -0400" stop="20250717110000 -0400">
+    <title lang="en">SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250717110000 -0400" stop="20250717120000 -0400">
+    <title lang="en">SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250717120000 -0400" stop="20250717140000 -0400">
+    <title lang="en">First Take</title>
+    <desc lang="en">Stephen A. Smith joins Molly Qerim to debate the hottest topics in sports with contributors and guests.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186291_i_h8_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250717140000 -0400" stop="20250717143000 -0400">
+    <title lang="en">2025 Motorcycle Experience</title>
+    <desc lang="en">News and reviews from cycle enthusiasts.</desc>
+    <category lang="en">Automotive</category>
+    <category lang="en">Sports</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30211858_b_v12_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250717143000 -0400" stop="20250717145200 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 10 Women's World Hockey Championship Games</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250717145200 -0400" stop="20250717170000 -0400">
+    <title lang="en">Live: UEFA Women's EURO 2025</title>
+    <sub-title lang="en">Spain vs. Switzerland</sub-title>
+    <desc lang="en">Quarterfinal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29593827_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250717170000 -0400" stop="20250717173000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top Rivalries in Sports</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250717173000 -0400" stop="20250717180000 -0400">
+    <title lang="en">Live: Pardon the Interruption</title>
+    <desc lang="en">Opinions regarding the day's top sports stories.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186288_b_h8_ag.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250717180000 -0400" stop="20250717193000 -0400">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250717193000 -0400" stop="20250717223000 -0400">
+    <title lang="en">Live: CFL Football</title>
+    <sub-title lang="en">Toronto Argonauts at Montreal Alouettes</sub-title>
+    <desc lang="en">From Percival Molson Memorial Stadium in Montreal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG00253QGE.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250717223000 -0400" stop="20250718000000 -0400">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250718000000 -0400" stop="20250718010000 -0400">
+    <title lang="en">Live: SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250718010000 -0400" stop="20250718020000 -0400">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250718020000 -0400" stop="20250718030000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250718030000 -0400" stop="20250718040000 -0400">
+    <title lang="en">SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250718040000 -0400" stop="20250718050000 -0400">
+    <title lang="en">SC With Jay Onrait</title>
+    <desc lang="en">The latest scores and highlights, with host Jay Onrait.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19487661_b_v12_ac.jpg" />
+    <previously-shown /></programme>
   <channel id="MLB.Baseball.Dummy.us">
         <display-name lang="en">MLB Baseball</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/250px-Major_League_Baseball_logo.svg.png" />
@@ -9859,102 +10042,6 @@
         <display-name lang="en">NFL</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" />
     </channel>
-    <programme start="20250713000000 +0000" stop="20250713010000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713010000 +0000" stop="20250713020000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713020000 +0000" stop="20250713030000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713030000 +0000" stop="20250713040000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713040000 +0000" stop="20250713050000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713050000 +0000" stop="20250713060000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713060000 +0000" stop="20250713070000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713070000 +0000" stop="20250713080000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713080000 +0000" stop="20250713090000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713090000 +0000" stop="20250713100000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713100000 +0000" stop="20250713110000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713110000 +0000" stop="20250713120000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713120000 +0000" stop="20250713130000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713130000 +0000" stop="20250713140000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713140000 +0000" stop="20250713150000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713150000 +0000" stop="20250713160000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713160000 +0000" stop="20250713170000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713170000 +0000" stop="20250713180000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713180000 +0000" stop="20250713190000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713190000 +0000" stop="20250713200000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713200000 +0000" stop="20250713210000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713210000 +0000" stop="20250713220000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713220000 +0000" stop="20250713230000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20250713230000 +0000" stop="20250713235900 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
     <programme start="20250714000000 +0000" stop="20250714010000 +0000" channel="MLB.Baseball.Dummy.us">
         <title lang="en">MLB Baseball</title>
         <desc lang="en">MLB Baseball</desc>
@@ -10243,101 +10330,101 @@
         <title lang="en">MLB Baseball</title>
         <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713000000 +0000" stop="20250713010000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717000000 +0000" stop="20250717010000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713010000 +0000" stop="20250713020000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717010000 +0000" stop="20250717020000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713020000 +0000" stop="20250713030000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717020000 +0000" stop="20250717030000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713030000 +0000" stop="20250713040000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717030000 +0000" stop="20250717040000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713040000 +0000" stop="20250713050000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717040000 +0000" stop="20250717050000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713050000 +0000" stop="20250713060000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717050000 +0000" stop="20250717060000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713060000 +0000" stop="20250713070000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717060000 +0000" stop="20250717070000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713070000 +0000" stop="20250713080000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717070000 +0000" stop="20250717080000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713080000 +0000" stop="20250713090000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717080000 +0000" stop="20250717090000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713090000 +0000" stop="20250713100000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717090000 +0000" stop="20250717100000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713100000 +0000" stop="20250713110000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717100000 +0000" stop="20250717110000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713110000 +0000" stop="20250713120000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717110000 +0000" stop="20250717120000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713120000 +0000" stop="20250713130000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717120000 +0000" stop="20250717130000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713130000 +0000" stop="20250713140000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717130000 +0000" stop="20250717140000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713140000 +0000" stop="20250713150000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717140000 +0000" stop="20250717150000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713150000 +0000" stop="20250713160000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717150000 +0000" stop="20250717160000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713160000 +0000" stop="20250713170000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717160000 +0000" stop="20250717170000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713170000 +0000" stop="20250713180000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717170000 +0000" stop="20250717180000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713180000 +0000" stop="20250713190000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717180000 +0000" stop="20250717190000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713190000 +0000" stop="20250713200000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717190000 +0000" stop="20250717200000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713200000 +0000" stop="20250713210000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717200000 +0000" stop="20250717210000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713210000 +0000" stop="20250713220000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717210000 +0000" stop="20250717220000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713220000 +0000" stop="20250713230000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717220000 +0000" stop="20250717230000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20250713230000 +0000" stop="20250713235900 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20250717230000 +0000" stop="20250717235900 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
     <programme start="20250714000000 +0000" stop="20250714010000 +0000" channel="NBA.Basketball.Dummy.us">
         <title lang="en">NBA Basketball</title>
@@ -10627,101 +10714,101 @@
         <title lang="en">NBA Basketball</title>
         <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713000000 +0000" stop="20250713010000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717000000 +0000" stop="20250717010000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713010000 +0000" stop="20250713020000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717010000 +0000" stop="20250717020000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713020000 +0000" stop="20250713030000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717020000 +0000" stop="20250717030000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713030000 +0000" stop="20250713040000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717030000 +0000" stop="20250717040000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713040000 +0000" stop="20250713050000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717040000 +0000" stop="20250717050000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713050000 +0000" stop="20250713060000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717050000 +0000" stop="20250717060000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713060000 +0000" stop="20250713070000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717060000 +0000" stop="20250717070000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713070000 +0000" stop="20250713080000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717070000 +0000" stop="20250717080000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713080000 +0000" stop="20250713090000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717080000 +0000" stop="20250717090000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713090000 +0000" stop="20250713100000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717090000 +0000" stop="20250717100000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713100000 +0000" stop="20250713110000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717100000 +0000" stop="20250717110000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713110000 +0000" stop="20250713120000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717110000 +0000" stop="20250717120000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713120000 +0000" stop="20250713130000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717120000 +0000" stop="20250717130000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713130000 +0000" stop="20250713140000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717130000 +0000" stop="20250717140000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713140000 +0000" stop="20250713150000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717140000 +0000" stop="20250717150000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713150000 +0000" stop="20250713160000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717150000 +0000" stop="20250717160000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713160000 +0000" stop="20250713170000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717160000 +0000" stop="20250717170000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713170000 +0000" stop="20250713180000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717170000 +0000" stop="20250717180000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713180000 +0000" stop="20250713190000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717180000 +0000" stop="20250717190000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713190000 +0000" stop="20250713200000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717190000 +0000" stop="20250717200000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713200000 +0000" stop="20250713210000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717200000 +0000" stop="20250717210000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713210000 +0000" stop="20250713220000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717210000 +0000" stop="20250717220000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713220000 +0000" stop="20250713230000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717220000 +0000" stop="20250717230000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20250713230000 +0000" stop="20250713235900 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20250717230000 +0000" stop="20250717235900 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
     <programme start="20250714000000 +0000" stop="20250714010000 +0000" channel="NHL.Hockey.Dummy.us">
         <title lang="en">NHL Hockey No Subtitle</title>
@@ -11011,101 +11098,101 @@
         <title lang="en">NHL Hockey No Subtitle</title>
         <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713000000 +0000" stop="20250713010000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717000000 +0000" stop="20250717010000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713010000 +0000" stop="20250713020000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717010000 +0000" stop="20250717020000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713020000 +0000" stop="20250713030000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717020000 +0000" stop="20250717030000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713030000 +0000" stop="20250713040000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717030000 +0000" stop="20250717040000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713040000 +0000" stop="20250713050000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717040000 +0000" stop="20250717050000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713050000 +0000" stop="20250713060000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717050000 +0000" stop="20250717060000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713060000 +0000" stop="20250713070000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717060000 +0000" stop="20250717070000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713070000 +0000" stop="20250713080000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717070000 +0000" stop="20250717080000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713080000 +0000" stop="20250713090000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717080000 +0000" stop="20250717090000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713090000 +0000" stop="20250713100000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717090000 +0000" stop="20250717100000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713100000 +0000" stop="20250713110000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717100000 +0000" stop="20250717110000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713110000 +0000" stop="20250713120000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717110000 +0000" stop="20250717120000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713120000 +0000" stop="20250713130000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717120000 +0000" stop="20250717130000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713130000 +0000" stop="20250713140000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717130000 +0000" stop="20250717140000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713140000 +0000" stop="20250713150000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717140000 +0000" stop="20250717150000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713150000 +0000" stop="20250713160000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717150000 +0000" stop="20250717160000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713160000 +0000" stop="20250713170000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717160000 +0000" stop="20250717170000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713170000 +0000" stop="20250713180000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717170000 +0000" stop="20250717180000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713180000 +0000" stop="20250713190000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717180000 +0000" stop="20250717190000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713190000 +0000" stop="20250713200000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717190000 +0000" stop="20250717200000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713200000 +0000" stop="20250713210000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717200000 +0000" stop="20250717210000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713210000 +0000" stop="20250713220000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717210000 +0000" stop="20250717220000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713220000 +0000" stop="20250713230000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717220000 +0000" stop="20250717230000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20250713230000 +0000" stop="20250713235900 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20250717230000 +0000" stop="20250717235900 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
     <programme start="20250714000000 +0000" stop="20250714010000 +0000" channel="PPV.EVENTS.Dummy.us">
         <title lang="en">PPV EVENT</title>
@@ -11395,101 +11482,101 @@
         <title lang="en">PPV EVENT</title>
         <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713000000 +0000" stop="20250713010000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717000000 +0000" stop="20250717010000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713010000 +0000" stop="20250713020000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717010000 +0000" stop="20250717020000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713020000 +0000" stop="20250713030000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717020000 +0000" stop="20250717030000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713030000 +0000" stop="20250713040000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717030000 +0000" stop="20250717040000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713040000 +0000" stop="20250713050000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717040000 +0000" stop="20250717050000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713050000 +0000" stop="20250713060000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717050000 +0000" stop="20250717060000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713060000 +0000" stop="20250713070000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717060000 +0000" stop="20250717070000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713070000 +0000" stop="20250713080000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717070000 +0000" stop="20250717080000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713080000 +0000" stop="20250713090000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717080000 +0000" stop="20250717090000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713090000 +0000" stop="20250713100000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717090000 +0000" stop="20250717100000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713100000 +0000" stop="20250713110000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717100000 +0000" stop="20250717110000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713110000 +0000" stop="20250713120000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717110000 +0000" stop="20250717120000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713120000 +0000" stop="20250713130000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717120000 +0000" stop="20250717130000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713130000 +0000" stop="20250713140000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717130000 +0000" stop="20250717140000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713140000 +0000" stop="20250713150000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717140000 +0000" stop="20250717150000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713150000 +0000" stop="20250713160000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717150000 +0000" stop="20250717160000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713160000 +0000" stop="20250713170000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717160000 +0000" stop="20250717170000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713170000 +0000" stop="20250713180000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717170000 +0000" stop="20250717180000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713180000 +0000" stop="20250713190000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717180000 +0000" stop="20250717190000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713190000 +0000" stop="20250713200000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717190000 +0000" stop="20250717200000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713200000 +0000" stop="20250713210000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717200000 +0000" stop="20250717210000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713210000 +0000" stop="20250713220000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717210000 +0000" stop="20250717220000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713220000 +0000" stop="20250713230000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717220000 +0000" stop="20250717230000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20250713230000 +0000" stop="20250713235900 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20250717230000 +0000" stop="20250717235900 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
     <programme start="20250714000000 +0000" stop="20250714010000 +0000" channel="NFL.Dummy.us">
         <title lang="en">NFL</title>
@@ -11776,6 +11863,102 @@
         <desc lang="en">NFL</desc>
     </programme>
     <programme start="20250716230000 +0000" stop="20250716235900 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717000000 +0000" stop="20250717010000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717010000 +0000" stop="20250717020000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717020000 +0000" stop="20250717030000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717030000 +0000" stop="20250717040000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717040000 +0000" stop="20250717050000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717050000 +0000" stop="20250717060000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717060000 +0000" stop="20250717070000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717070000 +0000" stop="20250717080000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717080000 +0000" stop="20250717090000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717090000 +0000" stop="20250717100000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717100000 +0000" stop="20250717110000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717110000 +0000" stop="20250717120000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717120000 +0000" stop="20250717130000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717130000 +0000" stop="20250717140000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717140000 +0000" stop="20250717150000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717150000 +0000" stop="20250717160000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717160000 +0000" stop="20250717170000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717170000 +0000" stop="20250717180000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717180000 +0000" stop="20250717190000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717190000 +0000" stop="20250717200000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717200000 +0000" stop="20250717210000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717210000 +0000" stop="20250717220000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717220000 +0000" stop="20250717230000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20250717230000 +0000" stop="20250717235900 +0000" channel="NFL.Dummy.us">
         <title lang="en">NFL</title>
         <desc lang="en">NFL</desc>
     </programme>
