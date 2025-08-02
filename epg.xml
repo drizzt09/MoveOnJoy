@@ -5179,24 +5179,6 @@
     <category lang="en">Soccer</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG0022LD05.jpg" />
     <previously-shown /></programme>
-  <channel id="TSN1.ca">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11182_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11182_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">TSN1</display-name>
-  </channel>
-  <channel id="TSN4.ca">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90122_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90122_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">TSN4</display-name>
-  </channel>
-  <channel id="TSN3.ca">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90118_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90118_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">TSN3</display-name>
-  </channel>
   <channel id="TSN2.ca">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18990_h15_ab.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18990_h15_ab.png" />
@@ -5209,173 +5191,24 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">TSN5</display-name>
   </channel>
-  <programme channel="TSN3.ca" start="20250730000000 -0400" stop="20250730010000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN3.ca" start="20250730010000 -0400" stop="20250730020000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN3.ca" start="20250730020000 -0400" stop="20250730030000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250730030000 -0400" stop="20250730040000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250730040000 -0400" stop="20250730050000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250730050000 -0400" stop="20250730060000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250730060000 -0400" stop="20250730070000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250730070000 -0400" stop="20250730080000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250730080000 -0400" stop="20250730090000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250730090000 -0400" stop="20250730100000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250730100000 -0400" stop="20250730110000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250730110000 -0400" stop="20250730120000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250730120000 -0400" stop="20250730130000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250730130000 -0400" stop="20250730133000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top Mascot Moments</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250730133000 -0400" stop="20250730140000 -0400">
-    <title lang="en">Canadian Dirt Tour Racing</title>
-    <sub-title lang="en">2025: 360 Sprints</sub-title>
-    <desc lang="en">A look at the action from dirt tracks across the country.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27936944_i_s4_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250730140000 -0400" stop="20250730143000 -0400">
-    <title lang="en">2025 Motorcycle Experience</title>
-    <desc lang="en">News and reviews from cycle enthusiasts.</desc>
-    <category lang="en">Automotive</category>
-    <category lang="en">Sports</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30211858_b_v12_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250730143000 -0400" stop="20250730160000 -0400">
-    <title lang="en">E60</title>
-    <sub-title lang="en">Southpaw -- The Life and Legacy of Jim Abbott</sub-title>
-    <desc lang="en">Born with one hand, Jim Abbott achieves unprecedented success in baseball and changes the world.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p229472_b_v11_af.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN3.ca" start="20250730160000 -0400" stop="20250730183000 -0400">
-    <title lang="en">Live: MLB Baseball</title>
-    <sub-title lang="en">New York Mets at San Diego Padres</sub-title>
-    <desc lang="en">National League sides in the thick of the playoff race finish a series as the Padres host the Mets. New York turns to Clay Holmes (9-5, 3.40 ERA), who won his last outing. Luis Arráez (SD) hit a two-RBI triple off Holmes in 2023.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191273_i_h8_ad.jpg" />
-  </programme>
-  <programme channel="TSN3.ca" start="20250730183000 -0400" stop="20250730190000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN3.ca" start="20250730190000 -0400" stop="20250730213000 -0400">
-    <title lang="en">Live: MLB Baseball</title>
-    <sub-title lang="en">Los Angeles Dodgers at Cincinnati Reds</sub-title>
-    <desc lang="en">Shohei Ohtani takes the ball for the Dodgers in a series finale against the Reds. Ohtani has yielded two runs in 12 innings over six starts in 2025, striking out 13. The two-way star batted .250 with two home runs and nine RBIs in those games.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191273_i_h8_ad.jpg" />
-  </programme>
-  <programme channel="TSN3.ca" start="20250730213000 -0400" stop="20250730223000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN3.ca" start="20250730223000 -0400" stop="20250730233000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN3.ca" start="20250730233000 -0400" stop="20250731000000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top 50 World Hockey Championship Goals</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
+  <channel id="TSN4.ca">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90122_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90122_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">TSN4</display-name>
+  </channel>
+  <channel id="TSN1.ca">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11182_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11182_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">TSN1</display-name>
+  </channel>
+  <channel id="TSN3.ca">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90118_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s90118_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">TSN3</display-name>
+  </channel>
   <programme channel="TSN3.ca" start="20250731000000 -0400" stop="20250731010000 -0400">
     <title lang="en">Live: SportsCentre</title>
     <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
@@ -5761,188 +5594,6 @@
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250730000000 -0400" stop="20250730010000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN5.ca" start="20250730010000 -0400" stop="20250730020000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN5.ca" start="20250730020000 -0400" stop="20250730030000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250730030000 -0400" stop="20250730040000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250730040000 -0400" stop="20250730050000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250730050000 -0400" stop="20250730060000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250730060000 -0400" stop="20250730070000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250730070000 -0400" stop="20250730080000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250730080000 -0400" stop="20250730090000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250730090000 -0400" stop="20250730100000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250730100000 -0400" stop="20250730110000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250730110000 -0400" stop="20250730120000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250730120000 -0400" stop="20250730123000 -0400">
-    <title lang="en">Why We Love Football</title>
-    <desc lang="en">Sports talk centered around the latest moves and news in the CFL and NFL.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30675623_b_h8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250730123000 -0400" stop="20250730130000 -0400">
-    <title lang="en">PGA TOUR - The Drop</title>
-    <desc lang="en">The Drop blends storytelling, competition, and personality. Each week, the show dives into the intensity of tournament play, previewing what's ahead and recapping the biggest storylines, giving fans a unique look at the players on and off the course.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29819239_i_h8_aa.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme channel="TSN5.ca" start="20250730130000 -0400" stop="20250730140000 -0400">
-    <title lang="en">PGA Tour Highlight Show</title>
-    <sub-title lang="en">2025 3M Open</sub-title>
-    <desc lang="en">Featuring round recaps and highlights from tournament events.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17206864_i_s4_ab.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250730140000 -0400" stop="20250730150000 -0400">
-    <title lang="en">Golf Talk Canada</title>
-    <desc lang="en">TSN's Mark Zecchino and Bob Weeks discuss the latest news in the world of golf.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11433618_i_h10_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250730150000 -0400" stop="20250730160000 -0400">
-    <title lang="en">Live: NBA Today</title>
-    <desc lang="en">In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20706981_i_s2_ac.jpg" />
-  </programme>
-  <programme channel="TSN5.ca" start="20250730160000 -0400" stop="20250730170000 -0400">
-    <title lang="en">Live: NFL Live</title>
-    <desc lang="en">Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p267723_i_s4_ae.jpg" />
-  </programme>
-  <programme channel="TSN5.ca" start="20250730170000 -0400" stop="20250730173000 -0400">
-    <title lang="en">College Football Live</title>
-    <desc lang="en">ESPN's daily college football show sharing reactions to the day's biggest stories and previews of each week's most important matchups. Kelsey Riggs and Jen Lada host alongside contributors Desmond Howard, Sam Acho, Greg McElroy and Pete Thamel.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p221266_i_s2_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250730173000 -0400" stop="20250730180000 -0400">
-    <title lang="en">Live: Pardon the Interruption</title>
-    <desc lang="en">Opinions regarding the day's top sports stories.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186288_b_h8_ag.jpg" />
-  </programme>
-  <programme channel="TSN5.ca" start="20250730180000 -0400" stop="20250730193000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN5.ca" start="20250730193000 -0400" stop="20250730200000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top 40 Trick Plays of All-Time</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN5.ca" start="20250730200000 -0400" stop="20250730220000 -0400">
-    <title lang="en">Live: Leagues Cup</title>
-    <sub-title lang="en">Pumas UNAM vs. Orlando City SC</sub-title>
-    <desc lang="en">From Inter&amp;Co Stadium in Orlando, Fla.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG0025JGGX.jpg" />
-  </programme>
-  <programme channel="TSN5.ca" start="20250730220000 -0400" stop="20250730233000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN5.ca" start="20250730233000 -0400" stop="20250731000000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top 50 World Hockey Championship Goals</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
   <programme channel="TSN5.ca" start="20250731000000 -0400" stop="20250731010000 -0400">
     <title lang="en">Live: SportsCentre</title>
     <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
@@ -6325,201 +5976,6 @@
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250730060000 -0400" stop="20250730070000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250730070000 -0400" stop="20250730080000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250730080000 -0400" stop="20250730090000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250730090000 -0400" stop="20250730100000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250730100000 -0400" stop="20250730110000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250730110000 -0400" stop="20250730120000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250730120000 -0400" stop="20250730130000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250730130000 -0400" stop="20250730133000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top Mascot Moments</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250730133000 -0400" stop="20250730140000 -0400">
-    <title lang="en">Canadian Dirt Tour Racing</title>
-    <sub-title lang="en">2025: 360 Sprints</sub-title>
-    <desc lang="en">A look at the action from dirt tracks across the country.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27936944_i_s4_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250730140000 -0400" stop="20250730143000 -0400">
-    <title lang="en">2025 Motorcycle Experience</title>
-    <desc lang="en">News and reviews from cycle enthusiasts.</desc>
-    <category lang="en">Automotive</category>
-    <category lang="en">Sports</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30211858_b_v12_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250730143000 -0400" stop="20250730150000 -0400">
-    <title lang="en">Canadian Superbike Championship</title>
-    <sub-title lang="en">Round 3: Pro Superbike, Race 1</sub-title>
-    <desc lang="en">From RAD Torque Raceway in Edmonton, Alberta.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motorcycle Racing</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27644807_b_v12_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250730150000 -0400" stop="20250730160000 -0400">
-    <title lang="en">Live: NBA Today</title>
-    <desc lang="en">In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20706981_i_s2_ac.jpg" />
-  </programme>
-  <programme channel="TSN1.ca" start="20250730160000 -0400" stop="20250730170000 -0400">
-    <title lang="en">Live: NFL Live</title>
-    <desc lang="en">Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p267723_i_s4_ae.jpg" />
-  </programme>
-  <programme channel="TSN1.ca" start="20250730170000 -0400" stop="20250730173000 -0400">
-    <title lang="en">College Football Live</title>
-    <desc lang="en">ESPN's daily college football show sharing reactions to the day's biggest stories and previews of each week's most important matchups. Kelsey Riggs and Jen Lada host alongside contributors Desmond Howard, Sam Acho, Greg McElroy and Pete Thamel.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p221266_i_s2_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250730173000 -0400" stop="20250730180000 -0400">
-    <title lang="en">Live: Pardon the Interruption</title>
-    <desc lang="en">Opinions regarding the day's top sports stories.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186288_b_h8_ag.jpg" />
-  </programme>
-  <programme channel="TSN1.ca" start="20250730180000 -0400" stop="20250730190000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN1.ca" start="20250730190000 -0400" stop="20250730210000 -0400">
-    <title lang="en">Live: WNBA Basketball</title>
-    <sub-title lang="en">Phoenix Mercury at Indiana Fever</sub-title>
-    <desc lang="en">The Fever seek a sixth straight win over the Mercury. Alyssa Thomas had 27 points and 11 rebounds as Phoenix snapped a three-game skid and beat Washington on July 27. Indiana's Kelsey Mitchell comes off a season-high 35 points in a win that same day.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191289_i_h8_ac.jpg" />
-  </programme>
-  <programme channel="TSN1.ca" start="20250730210000 -0400" stop="20250730213000 -0400">
-    <title lang="en">Live: MLB Baseball</title>
-    <sub-title lang="en">Los Angeles Dodgers at Cincinnati Reds</sub-title>
-    <desc lang="en">Shohei Ohtani takes the ball for the Dodgers in a series finale against the Reds. Ohtani has yielded two runs in 12 innings over six starts in 2025, striking out 13. The two-way star batted .250 with two home runs and nine RBIs in those games.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191273_i_h8_ad.jpg" />
-  </programme>
-  <programme channel="TSN1.ca" start="20250730213000 -0400" stop="20250730223000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN1.ca" start="20250730223000 -0400" stop="20250730233000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN1.ca" start="20250730233000 -0400" stop="20250731000000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">NBA Plays of the Year</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250731000000 -0400" stop="20250731010000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN1.ca" start="20250731010000 -0400" stop="20250731020000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN1.ca" start="20250731020000 -0400" stop="20250731030000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250731030000 -0400" stop="20250731040000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250731040000 -0400" stop="20250731050000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN1.ca" start="20250731050000 -0400" stop="20250731060000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
   <programme channel="TSN1.ca" start="20250731060000 -0400" stop="20250731070000 -0400">
     <title lang="en">SportsCentre</title>
     <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
@@ -6892,7 +6348,7 @@
   <programme channel="TSN1.ca" start="20250802150000 -0400" stop="20250802180000 -0400">
     <title lang="en">Live: CFL Football</title>
     <sub-title lang="en">Hamilton Tiger-Cats at Edmonton Elks</sub-title>
-    <desc lang="en">From Commonwealth Stadium in Edmonton, Alberta.</desc>
+    <desc lang="en">The Tiger-Cats line up against the Elks at Commonwealth Stadium. Hamilton has won five in a row, including the last two on the road, to earn a share of first place in the East. The visiting team has won all six meetings in the series since 2021.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
   </programme>
@@ -6973,183 +6429,37 @@
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250730060000 -0400" stop="20250730063000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">June Plays of the Month</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
+  <programme channel="TSN1.ca" start="20250803050000 -0400" stop="20250803060000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250730063000 -0400" stop="20250730070000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">NFL Plays of the Year</sub-title>
-    <desc lang="en">Top plays from the 2024-25 NFL season.</desc>
+  <programme channel="TSN1.ca" start="20250803060000 -0400" stop="20250803070000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250730070000 -0400" stop="20250730073000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">June Plays of the Month</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250730073000 -0400" stop="20250730080000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">NFL Plays of the Year</sub-title>
-    <desc lang="en">Top plays from the 2024-25 NFL season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250730080000 -0400" stop="20250730083000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">June Plays of the Month</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250730083000 -0400" stop="20250730090000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">NFL Plays of the Year</sub-title>
-    <desc lang="en">Top plays from the 2024-25 NFL season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250730090000 -0400" stop="20250730093000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">June Plays of the Month</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250730093000 -0400" stop="20250730100000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">NFL Plays of the Year</sub-title>
-    <desc lang="en">Top plays from the 2024-25 NFL season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250730100000 -0400" stop="20250730103000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">June Plays of the Month</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250730103000 -0400" stop="20250730110000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">NFL Plays of the Year</sub-title>
-    <desc lang="en">Top plays from the 2024-25 NFL season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250730110000 -0400" stop="20250730113000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">June Plays of the Month</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250730113000 -0400" stop="20250730120000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">NFL Plays of the Year</sub-title>
-    <desc lang="en">Top plays from the 2024-25 NFL season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250730120000 -0400" stop="20250730140000 -0400">
-    <title lang="en">Live: The Pat McAfee Show</title>
-    <desc lang="en">Former NFL punter Pat McAfee brings his humor and candor to the microphone to highlight the day's top stories.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18762527_b_s4_ab.jpg" />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="TSN2.ca" start="20250730140000 -0400" stop="20250730160000 -0400">
-    <title lang="en">Leagues Cup</title>
-    <sub-title lang="en">CF Montréal vs. Club León</sub-title>
-    <desc lang="en">From Saputo Stadium in Montreal-Est, Québec.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250730160000 -0400" stop="20250730163000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">June Plays of the Month</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250730163000 -0400" stop="20250730170000 -0400">
-    <title lang="en">PGA TOUR - The Drop</title>
-    <desc lang="en">The Drop blends storytelling, competition, and personality. Each week, the show dives into the intensity of tournament play, previewing what's ahead and recapping the biggest storylines, giving fans a unique look at the players on and off the course.</desc>
+  <programme channel="TSN1.ca" start="20250803070000 -0400" stop="20250803120000 -0400">
+    <title lang="en">Live: 2025 AIG Women's Open</title>
+    <sub-title lang="en">Final Round, Part 1</sub-title>
+    <desc lang="en">From Royal Porthcawl Golf Club in Porthcawl, Bridgend, United Kingdom.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29819239_i_h8_aa.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28883306_b_h10_aa.jpg" />
   </programme>
-  <programme channel="TSN2.ca" start="20250730170000 -0400" stop="20250730180000 -0400">
-    <title lang="en">Golf Talk Canada</title>
-    <desc lang="en">TSN's Mark Zecchino and Bob Weeks discuss the latest news in the world of golf.</desc>
+  <programme channel="TSN1.ca" start="20250803120000 -0400" stop="20250803140000 -0400">
+    <title lang="en">Live: 2025 AIG Women's Open</title>
+    <sub-title lang="en">Final Round, Part 2</sub-title>
+    <desc lang="en">From Royal Porthcawl Golf Club in Porthcawl, Bridgend, United Kingdom.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11433618_i_h10_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250730180000 -0400" stop="20250730190000 -0400">
-    <title lang="en">Live: Overdrive</title>
-    <desc lang="en">Expert analysis on the day's biggest sports stories.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10291361_b_s4_ab.jpg" />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28883306_b_h10_aa.jpg" />
   </programme>
-  <programme channel="TSN2.ca" start="20250730190000 -0400" stop="20250730200000 -0400">
-    <title lang="en">The Amazing Race Canada</title>
-    <desc lang="en">Teams of pairs race around Canada, through its urban centres to its most-remote outposts.</desc>
-    <category lang="en">Travel</category>
-    <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10017313_b_h8_aq.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="TSN2.ca" start="20250730200000 -0400" stop="20250730220000 -0400">
-    <title lang="en">Live: All Elite Wrestling: Dynamite</title>
-    <desc lang="en">Everyone is banned from ringside as Hangman Adam Page defends the AEW World Championship against Jon Moxley; the Young Bucks face The Outrunners to determine which team will challenge for the AEW World Tag Titles at Forbidden Door; MJF appears live.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17392976_i_s4_af.jpg" />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="TSN2.ca" start="20250730220000 -0400" stop="20250730223000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">June Plays of the Month</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250730223000 -0400" stop="20250730233000 -0400">
+  <programme channel="TSN1.ca" start="20250803140000 -0400" stop="20250803150000 -0400">
     <title lang="en">PBR Bull Riding</title>
     <sub-title lang="en">2025 Tour: Kelowna, BC</sub-title>
     <desc lang="en">Coverage of classic bull riding events from around the United States.</desc>
@@ -7157,78 +6467,77 @@
     <category lang="en">Rodeo</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12888727_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250730233000 -0400" stop="20250731000000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top Super Bowl Moments</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250731000000 -0400" stop="20250731010000 -0400">
-    <title lang="en">Golf Talk Canada</title>
-    <desc lang="en">TSN's Mark Zecchino and Bob Weeks discuss the latest news in the world of golf.</desc>
+  <programme channel="TSN1.ca" start="20250803150000 -0400" stop="20250803180000 -0400">
+    <title lang="en">Live: PGA Tour Golf</title>
+    <sub-title lang="en">Wyndham Championship, Final Round</sub-title>
+    <desc lang="en">The PGA Tour's regular season comes to a close with the final round of the Wyndham Championship. The top 70 players in the FedEx Cup standings advance to the playoffs, which begin on Aug. 7 with the FedEx St. Jude Championship in Memphis, Tenn.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11433618_i_h10_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250731010000 -0400" stop="20250731030000 -0400">
-    <title lang="en">All Elite Wrestling: Dynamite</title>
-    <desc lang="en">Everyone is banned from ringside as Hangman Adam Page defends the AEW World Championship against Jon Moxley; the Young Bucks face The Outrunners to determine which team will challenge for the AEW World Tag Titles at Forbidden Door; MJF appears live.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17392976_i_s4_af.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
   </programme>
-  <programme channel="TSN2.ca" start="20250731030000 -0400" stop="20250731033000 -0400">
+  <programme channel="TSN1.ca" start="20250803180000 -0400" stop="20250803190000 -0400">
+    <title lang="en">Live: Sunday Night Baseball Countdown</title>
+    <desc lang="en">A preview of the game of the week, with interviews, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14371379_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="TSN1.ca" start="20250803190000 -0400" stop="20250803220000 -0400">
+    <title lang="en">Live: MLB Baseball</title>
+    <sub-title lang="en">Detroit Tigers at Philadelphia Phillies</sub-title>
+    <desc lang="en">From Citizens Bank Park in Philadelphia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191273_i_h8_ad.jpg" />
+  </programme>
+  <programme channel="TSN1.ca" start="20250803220000 -0400" stop="20250803233000 -0400">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+  </programme>
+  <programme channel="TSN1.ca" start="20250803233000 -0400" stop="20250804000000 -0400">
     <title lang="en">SC</title>
-    <sub-title lang="en">Top 10 Grey Cup Games</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
+    <sub-title lang="en">NFL Plays of the Year</sub-title>
+    <desc lang="en">Top plays from the 2024-25 NFL season.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Anthology</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250731033000 -0400" stop="20250731040000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top Super Bowl Moments</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
+  <programme channel="TSN1.ca" start="20250804000000 -0400" stop="20250804010000 -0400">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+  </programme>
+  <programme channel="TSN1.ca" start="20250804010000 -0400" stop="20250804020000 -0400">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+  </programme>
+  <programme channel="TSN1.ca" start="20250804020000 -0400" stop="20250804030000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250731040000 -0400" stop="20250731043000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top 10 Grey Cup Games</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
+  <programme channel="TSN1.ca" start="20250804030000 -0400" stop="20250804040000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250731043000 -0400" stop="20250731050000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top Super Bowl Moments</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
+  <programme channel="TSN1.ca" start="20250804040000 -0400" stop="20250804050000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250731050000 -0400" stop="20250731053000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top 10 Grey Cup Games</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN2.ca" start="20250731053000 -0400" stop="20250731060000 -0400">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top Super Bowl Moments</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Anthology</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
   <programme channel="TSN2.ca" start="20250731060000 -0400" stop="20250731063000 -0400">
     <title lang="en">SC</title>
@@ -7746,211 +7055,191 @@
   <programme channel="TSN2.ca" start="20250803010000 -0400" stop="20250803040000 -0400">
     <title lang="en">CFL Football</title>
     <sub-title lang="en">Hamilton Tiger-Cats at Edmonton Elks</sub-title>
-    <desc lang="en">From Commonwealth Stadium in Edmonton, Alberta.</desc>
+    <desc lang="en">The Tiger-Cats line up against the Elks at Commonwealth Stadium. Hamilton has won five in a row, including the last two on the road, to earn a share of first place in the East. The visiting team has won all six meetings in the series since 2021.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250730000000 -0400" stop="20250730010000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+  <programme channel="TSN2.ca" start="20250803040000 -0400" stop="20250803070000 -0400">
+    <title lang="en">CFL Football</title>
+    <sub-title lang="en">Saskatchewan Roughriders at Montreal Alouettes</sub-title>
+    <desc lang="en">Montreal hosts Saskatchewan. Both squads have won two in a row and lead their respective divisions, with the Alouettes sharing with the Tiger-Cats entering the day. Montreal swept the 2024 series, winning two games by a combined seven points.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN4.ca" start="20250730010000 -0400" stop="20250730020000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN4.ca" start="20250730020000 -0400" stop="20250730030000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191256_i_s4_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250730030000 -0400" stop="20250730040000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250730040000 -0400" stop="20250730050000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250730050000 -0400" stop="20250730060000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250730060000 -0400" stop="20250730070000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250730070000 -0400" stop="20250730080000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250730080000 -0400" stop="20250730090000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250730090000 -0400" stop="20250730100000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250730100000 -0400" stop="20250730110000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250730110000 -0400" stop="20250730120000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250730120000 -0400" stop="20250730140000 -0400">
-    <title lang="en">First Take</title>
-    <desc lang="en">Stephen A. Smith joins Molly Qerim to debate the hottest topics in sports with contributors and guests.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186291_i_h8_ae.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250730140000 -0400" stop="20250730150000 -0400">
-    <title lang="en">Golf Talk Canada</title>
-    <desc lang="en">TSN's Mark Zecchino and Bob Weeks discuss the latest news in the world of golf.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11433618_i_h10_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250730150000 -0400" stop="20250730160000 -0400">
-    <title lang="en">Live: NBA Today</title>
-    <desc lang="en">In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20706981_i_s2_ac.jpg" />
-  </programme>
-  <programme channel="TSN4.ca" start="20250730160000 -0400" stop="20250730180000 -0400">
-    <title lang="en">Live: Overdrive</title>
-    <desc lang="en">Expert analysis on the day's biggest sports stories.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10291361_b_s4_ab.jpg" />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme channel="TSN4.ca" start="20250730180000 -0400" stop="20250730190000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN4.ca" start="20250730190000 -0400" stop="20250730210000 -0400">
-    <title lang="en">Live: WNBA Basketball</title>
-    <sub-title lang="en">Phoenix Mercury at Indiana Fever</sub-title>
-    <desc lang="en">The Fever seek a sixth straight win over the Mercury. Alyssa Thomas had 27 points and 11 rebounds as Phoenix snapped a three-game skid and beat Washington on July 27. Indiana's Kelsey Mitchell comes off a season-high 35 points in a win that same day.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191289_i_h8_ac.jpg" />
-  </programme>
-  <programme channel="TSN4.ca" start="20250730210000 -0400" stop="20250730213000 -0400">
-    <title lang="en">Live: MLB Baseball</title>
-    <sub-title lang="en">Los Angeles Dodgers at Cincinnati Reds</sub-title>
-    <desc lang="en">Shohei Ohtani takes the ball for the Dodgers in a series finale against the Reds. Ohtani has yielded two runs in 12 innings over six starts in 2025, striking out 13. The two-way star batted .250 with two home runs and nine RBIs in those games.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191273_i_h8_ad.jpg" />
-  </programme>
-  <programme channel="TSN4.ca" start="20250730213000 -0400" stop="20250730223000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN4.ca" start="20250730223000 -0400" stop="20250730233000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
-  </programme>
-  <programme channel="TSN4.ca" start="20250730233000 -0400" stop="20250731000000 -0400">
+  <programme channel="TSN2.ca" start="20250803070000 -0400" stop="20250803073000 -0400">
     <title lang="en">SC</title>
-    <sub-title lang="en">NBA Plays of the Year</sub-title>
+    <sub-title lang="en">Top Rivalries in Sports</sub-title>
     <desc lang="en">The best and worst from the world of sports.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Anthology</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250731000000 -0400" stop="20250731010000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+  <programme channel="TSN2.ca" start="20250803073000 -0400" stop="20250803080000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top Overtime Moments</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250803080000 -0400" stop="20250803110000 -0400">
+    <title lang="en">CFL Football</title>
+    <sub-title lang="en">Hamilton Tiger-Cats at Edmonton Elks</sub-title>
+    <desc lang="en">The Tiger-Cats line up against the Elks at Commonwealth Stadium. Hamilton has won five in a row, including the last two on the road, to earn a share of first place in the East. The visiting team has won all six meetings in the series since 2021.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250803110000 -0400" stop="20250803140000 -0400">
+    <title lang="en">CFL Football</title>
+    <sub-title lang="en">Saskatchewan Roughriders at Montreal Alouettes</sub-title>
+    <desc lang="en">Montreal hosts Saskatchewan. Both squads have won two in a row and lead their respective divisions, with the Alouettes sharing with the Tiger-Cats entering the day. Montreal swept the 2024 series, winning two games by a combined seven points.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191256_i_s4_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250803140000 -0400" stop="20250803160000 -0400">
+    <title lang="en">Formula 1 Racing</title>
+    <sub-title lang="en">Hungarian Grand Prix</sub-title>
+    <desc lang="en">The Formula One grid cruises into the summer break with the Hungarian Grand Prix from the Hungaroring. McLaren driver Oscar Piastri, last year's winner in Hungary, increased his championship lead over teammate Lando Norris with a victory in Belgium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250803160000 -0400" stop="20250803180000 -0400">
+    <title lang="en">Live: Canadian Premier League Soccer</title>
+    <sub-title lang="en">York United at Atlético Ottawa</sub-title>
+    <desc lang="en">From TD Place Stadium in Ottawa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16758077_i_s4_aa.jpg" />
   </programme>
-  <programme channel="TSN4.ca" start="20250731010000 -0400" stop="20250731020000 -0400">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+  <programme channel="TSN2.ca" start="20250803180000 -0400" stop="20250803183000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Wacky CFL Moments</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250803183000 -0400" stop="20250803190000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 Saves of All-Time</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250803190000 -0400" stop="20250803193000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 Goals of All-Time</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250803193000 -0400" stop="20250803220000 -0400">
+    <title lang="en">Live: Leagues Cup</title>
+    <sub-title lang="en">Guadalajara vs. Charlotte FC</sub-title>
+    <desc lang="en">From Bank of America Stadium in Charlotte, N.C.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16997878_b_v8_aa.jpg" />
   </programme>
-  <programme channel="TSN4.ca" start="20250731020000 -0400" stop="20250731030000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+  <programme channel="TSN2.ca" start="20250803220000 -0400" stop="20250803223000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 10 Grey Cup Games</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250731030000 -0400" stop="20250731040000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+  <programme channel="TSN2.ca" start="20250803223000 -0400" stop="20250804003000 -0400">
+    <title lang="en">Live: Leagues Cup</title>
+    <sub-title lang="en">Seattle Sounders FC vs. Santos Laguna</sub-title>
+    <desc lang="en">From Lumen Field in Seattle.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16997878_b_v8_aa.jpg" />
+  </programme>
+  <programme channel="TSN2.ca" start="20250804003000 -0400" stop="20250804010000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 CHL Goals</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250731040000 -0400" stop="20250731050000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+  <programme channel="TSN2.ca" start="20250804010000 -0400" stop="20250804013000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 Men's World Hockey Championship Goals</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TSN4.ca" start="20250731050000 -0400" stop="20250731060000 -0400">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+  <programme channel="TSN2.ca" start="20250804013000 -0400" stop="20250804020000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 CHL Goals</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250804020000 -0400" stop="20250804023000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 Men's World Hockey Championship Goals</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250804023000 -0400" stop="20250804030000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 CHL Goals</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250804030000 -0400" stop="20250804033000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 Men's World Hockey Championship Goals</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250804033000 -0400" stop="20250804040000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 CHL Goals</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250804040000 -0400" stop="20250804043000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 Men's World Hockey Championship Goals</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250804043000 -0400" stop="20250804050000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 CHL Goals</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN2.ca" start="20250804050000 -0400" stop="20250804053000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 Men's World Hockey Championship Goals</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
     <previously-shown /></programme>
   <programme channel="TSN4.ca" start="20250731060000 -0400" stop="20250731070000 -0400">
     <title lang="en">SportsCentre</title>
@@ -8044,7 +7333,7 @@
   <programme channel="TSN4.ca" start="20250731190000 -0400" stop="20250731213000 -0400">
     <title lang="en">Live: MLB Baseball</title>
     <sub-title lang="en">Atlanta Braves at Cincinnati Reds</sub-title>
-    <desc lang="en">From Great American Ball Park in Cincinnati.</desc>
+    <desc lang="en">The Reds host the Braves. Cincinnati southpaw Andrew Abbott sports a sparkling 2.09 ERA to go with an 8-1 record through 18 starts in 2025. Atlanta took three of four from Cincy in May, including a game in which Abbott tossed five scoreless innings.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Baseball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191273_i_h8_ad.jpg" />
@@ -8052,7 +7341,7 @@
   <programme channel="TSN4.ca" start="20250731213000 -0400" stop="20250731223000 -0400">
     <title lang="en">Live: CFL Football</title>
     <sub-title lang="en">Calgary Stampeders at Ottawa Redblacks</sub-title>
-    <desc lang="en">From TD Place Stadium in Ottawa.</desc>
+    <desc lang="en">The Stampeders (5-2) visit the Redblacks (1-6) to kick-start Week 9. Ottawa has won four straight meetings, including its lone 2025 victory in Week 3. Daniel Adeboboye (OTT) totaled 113 yards from scrimmage and scored a TD in that 20-12 victory.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29379207_tb2_s4_ab.jpg" />
@@ -8198,7 +7487,7 @@
   <programme channel="TSN4.ca" start="20250801193000 -0400" stop="20250801213000 -0400">
     <title lang="en">Live: WNBA Basketball</title>
     <sub-title lang="en">Indiana Fever at Dallas Wings</sub-title>
-    <desc lang="en">From American Airlines Center in Dallas.</desc>
+    <desc lang="en">Indiana visits Dallas. The Fever have won four straight meetings after waxing the Wings 102-83 on July 13. Kelsey Mitchell (IND) scored a season-high 35 points in her last road outing July 27, and averages 26 points per game against Dallas this year.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191289_i_h8_ac.jpg" />
@@ -8206,7 +7495,7 @@
   <programme channel="TSN4.ca" start="20250801213000 -0400" stop="20250801233000 -0400">
     <title lang="en">Live: CFL Football</title>
     <sub-title lang="en">Toronto Argonauts at Winnipeg Blue Bombers</sub-title>
-    <desc lang="en">From Princess Auto Field in Winnipeg, Manitoba.</desc>
+    <desc lang="en">The Argonauts (2-5) and Blue Bombers (3-3) complete a home-and-home Grey Cup rematch set. Toronto took the first match at BMO Field with a 31-17 decision over Winnipeg. Argos receiver Damonte Coxie hauled in six catches for 145 yards and a TD.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191256_i_s4_aa.jpg" />
@@ -8248,6 +7537,294 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
     <previously-shown /></programme>
   <programme channel="TSN4.ca" start="20250802040000 -0400" stop="20250802050000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250802050000 -0400" stop="20250802060000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250802060000 -0400" stop="20250802070000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250802070000 -0400" stop="20250802120000 -0400">
+    <title lang="en">Live: 2025 AIG Women's Open</title>
+    <sub-title lang="en">Third Round, Part 1</sub-title>
+    <desc lang="en">From Royal Porthcawl Golf Club in Porthcawl, Bridgend, United Kingdom.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28883306_b_h10_aa.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250802120000 -0400" stop="20250802140000 -0400">
+    <title lang="en">Live: 2025 AIG Women's Open</title>
+    <sub-title lang="en">Third Round, Part 2</sub-title>
+    <desc lang="en">From Royal Porthcawl Golf Club in Porthcawl, Bridgend, United Kingdom.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28883306_b_h10_aa.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250802140000 -0400" stop="20250802143000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top Rivalries in Sports</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250802143000 -0400" stop="20250802150000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Best and Worst Celebrations</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250802150000 -0400" stop="20250802180000 -0400">
+    <title lang="en">Live: PGA Tour Golf</title>
+    <sub-title lang="en">Wyndham Championship, Third Round</sub-title>
+    <desc lang="en">The Wyndham Championship's third round begins. Sedgefield Country Club has hosted the event since 2008, and did so on 20 different occasions during the 20th century. The course also co-hosted the first four years (1938-1941) with Starmount Forest.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme channel="TSN4.ca" start="20250802180000 -0400" stop="20250802183000 -0400">
+    <title lang="en">Porsche Supercup</title>
+    <sub-title lang="en">Round 5: Spa-Francorchamps, Race</sub-title>
+    <desc lang="en">From Circuit de Spa-Francorchamps in Francorchamps, Liège, Belgium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8181822_i_h10_ad.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250802183000 -0400" stop="20250802190000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top Mascot Moments</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250802190000 -0400" stop="20250802210000 -0400">
+    <title lang="en">Live: Northern Super League Soccer</title>
+    <sub-title lang="en">Vancouver Rise vs. AFC Toronto</sub-title>
+    <desc lang="en">From Swangard Stadium in Burnaby, British Columbia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29887829_st_h10_aa.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250802210000 -0400" stop="20250802220000 -0400">
+    <title lang="en">Live: CFL Football</title>
+    <sub-title lang="en">Saskatchewan Roughriders at Montreal Alouettes</sub-title>
+    <desc lang="en">Montreal hosts Saskatchewan. Both squads have won two in a row and lead their respective divisions, with the Alouettes sharing with the Tiger-Cats entering the day. Montreal swept the 2024 series, winning two games by a combined seven points.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191256_i_s4_aa.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250802220000 -0400" stop="20250802230000 -0400">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250802230000 -0400" stop="20250803000000 -0400">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250803000000 -0400" stop="20250803010000 -0400">
+    <title lang="en">The Amazing Race Canada</title>
+    <sub-title lang="en">There's Two Joes'</sub-title>
+    <desc lang="en">The contestants reach the Arctic Ocean for the first time, via Inuvik and Tuktoyaktuk.</desc>
+    <category lang="en">Travel</category>
+    <category lang="en">Game Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10017313_b_h8_aq.jpg" />
+    <episode-num system="onscreen">E1104</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="TSN4.ca" start="20250803010000 -0400" stop="20250803020000 -0400">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250803020000 -0400" stop="20250803030000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250803030000 -0400" stop="20250803040000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250803040000 -0400" stop="20250803050000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250803050000 -0400" stop="20250803060000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250803060000 -0400" stop="20250803070000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250803070000 -0400" stop="20250803073000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250803073000 -0400" stop="20250803085500 -0400">
+    <title lang="en">Live: Formula 1 Grand Prix Sunday</title>
+    <sub-title lang="en">Hungarian Grand Prix</sub-title>
+    <desc lang="en">Featuring pre-race predictions and analysis leading up to today's Formula 1 racing action.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17998968_b_s2_aa.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250803085500 -0400" stop="20250803110000 -0400">
+    <title lang="en">Live: Formula 1 Racing</title>
+    <sub-title lang="en">Hungarian Grand Prix</sub-title>
+    <desc lang="en">The Formula One grid cruises into the summer break with the Hungarian Grand Prix from the Hungaroring. McLaren driver Oscar Piastri, last year's winner in Hungary, increased his championship lead over teammate Lando Norris with a victory in Belgium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme channel="TSN4.ca" start="20250803110000 -0400" stop="20250803120000 -0400">
+    <title lang="en">Live: F1 Chequered Flag</title>
+    <sub-title lang="en">Hungarian Grand Prix</sub-title>
+    <desc lang="en">Post-race analysis of F1 races.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19683571_b_v12_ac.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250803120000 -0400" stop="20250803123000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">July Plays of the Month</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250803123000 -0400" stop="20250803150000 -0400">
+    <title lang="en">Live: NWSL Soccer</title>
+    <sub-title lang="en">Portland Thorns FC at Washington Spirit</sub-title>
+    <desc lang="en">From Audi Field in Washington, D.C.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11962008_b_s4_aa.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250803150000 -0400" stop="20250803170000 -0400">
+    <title lang="en">Live: WNBA Basketball</title>
+    <sub-title lang="en">Indiana Fever at Seattle Storm</sub-title>
+    <desc lang="en">From Climate Pledge Arena in Seattle.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191289_i_h8_ac.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250803170000 -0400" stop="20250803173000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 Tennis Shots of All-Time</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250803173000 -0400" stop="20250803180000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 Curling Shots</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250803180000 -0400" stop="20250803190000 -0400">
+    <title lang="en">Live: Sunday Night Baseball Countdown</title>
+    <desc lang="en">A preview of the game of the week, with interviews, highlights and analysis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14371379_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250803190000 -0400" stop="20250803220000 -0400">
+    <title lang="en">Live: MLB Baseball</title>
+    <sub-title lang="en">Detroit Tigers at Philadelphia Phillies</sub-title>
+    <desc lang="en">From Citizens Bank Park in Philadelphia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191273_i_h8_ad.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250803220000 -0400" stop="20250803233000 -0400">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250803233000 -0400" stop="20250804000000 -0400">
+    <title lang="en">SC</title>
+    <sub-title lang="en">NFL Plays of the Year</sub-title>
+    <desc lang="en">Top plays from the 2024-25 NFL season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11413944_b_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250804000000 -0400" stop="20250804010000 -0400">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250804010000 -0400" stop="20250804020000 -0400">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+  </programme>
+  <programme channel="TSN4.ca" start="20250804020000 -0400" stop="20250804030000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250804030000 -0400" stop="20250804040000 -0400">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492912_b_h10_ae.jpg" />
+    <previously-shown /></programme>
+  <programme channel="TSN4.ca" start="20250804040000 -0400" stop="20250804050000 -0400">
     <title lang="en">SportsCentre</title>
     <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <category lang="en">Sports</category>
